@@ -1,0 +1,31 @@
+# Site settings
+title: Classic City Band
+email: info@classiccityband.org
+description: >-
+  Athens, Georgia's premier community concert band. 
+  Join us for concerts throughout the year featuring classical, 
+  contemporary, and popular music.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://classiccityband.org" # the base hostname & protocol for your site
+
+# Social media
+facebook_url: https://facebook.com/classiccityband
+instagram_url: https://instagram.com/classiccityband
+youtube_url: https://youtube.com/classiccityband
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
