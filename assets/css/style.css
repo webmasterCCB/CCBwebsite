@@ -77,11 +77,11 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-  background: url('../images/Michael_conducts_audience_singalong.jpg') center center/cover no-repeat;
+  background: url('../images/Michael_conducts_audience_singalong.jpg') center 30%/cover no-repeat;
   background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: darken;
   color: var(--white);
-  padding: 4rem 2rem;
+  padding: 6rem 2rem 4rem 2rem;
   text-align: center;
 }
 
