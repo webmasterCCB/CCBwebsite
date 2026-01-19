@@ -1,5 +1,8 @@
 /* Classic City Band - Main Styles */
 
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Merriweather:wght@700&display=swap');
+
 :root {
   --primary-red: #c41e3a;
   --primary-navy: #003366;
