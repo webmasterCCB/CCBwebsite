@@ -77,7 +77,9 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-  background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-red) 100%);
+  background: url('../images/assets/images/Michael_conducts_audience_singalong.jpg) center center/cover no-repeat;
+  background-color: rgba(0, 0, 0, 0.4);
+  background-blend-mode: darken;
   color: var(--white);
   padding: 4rem 2rem;
   text-align: center;
