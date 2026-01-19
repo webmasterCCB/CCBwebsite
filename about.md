@@ -15,7 +15,7 @@ To provide outstanding musical experiences for both our musicians and our commun
 
 [Add your band's history here - when founded, major milestones, notable performances, etc.]
 
-Classic City Band has been a cornerstone of the Athens music community for [X] years, performing concerts throughout the year and enriching our community with quality music.
+Classic City Band has been a cornerstone of the Athens music community for many years, performing concerts throughout the year and enriching our community with quality music.
 
 ### What We Play
 
@@ -34,7 +34,7 @@ Our repertoire includes:
 ### Band Leadership
 
 - **President:** [Name]
-- **Vice President:** David [Last Name]
+- **Vice President:** [Name]
 - **Treasurer:** [Name]
 - **Secretary:** [Name]
 
@@ -52,7 +52,6 @@ We perform at various venues throughout Athens, including [list your typical per
 
 Want to learn more about Classic City Band?
 
-- [Join our mailing list](#)
 - Follow us on [Facebook]({{ site.facebook_url }})
 - Follow us on [Instagram]({{ site.instagram_url }})
 - Subscribe to our [YouTube channel]({{ site.youtube_url }})

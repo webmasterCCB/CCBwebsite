@@ -39,22 +39,14 @@ We accept all woodwind, brass, and percussion instruments. We are particularly s
 - **When:** [Day of week] evenings
 - **Time:** [Start time] to [End time]
 - **Location:** [Rehearsal location and address]
-- **Season:** [When do you rehearse - all year, Sept-May, etc.]
-
-### Commitment
-
-We ask members to:
-- Attend weekly rehearsals regularly
-- Practice their parts outside of rehearsal
-- Perform in [X] concerts per season
-- Support the band's mission and community
+- **Season:** [When rehearsals run]
 
 ### How to Join
 
 **Interested in joining?** We'd love to hear from you!
 
-1. **Contact us:** Email [{{ site.email }}](mailto:{{ site.email }}) or call [PHONE NUMBER]
-2. **Come to a rehearsal:** Visit us on a [Rehearsal Day] to see what we're all about
+1. **Contact us:** Email [{{ site.email }}](mailto:{{ site.email }})
+2. **Come to a rehearsal:** Visit us on a rehearsal night to see what we're all about
 3. **Bring your instrument:** Sit in and play with us!
 
 ### Frequently Asked Questions
@@ -66,27 +58,21 @@ No formal audition is required. We welcome dedicated musicians of varying skill 
 That's okay! Many of our members returned to music after long breaks. We're here to support each other.
 
 **Is there a membership fee?**  
-[Add your membership fee information here, or state if membership is free]
+[Add your membership fee information here]
 
 **Can I join mid-season?**  
 Yes! While it's easiest to join at the start of our season, we welcome new members throughout the year.
-
-**What about music?**  
-The band provides all music for rehearsals and performances.
-
-**What if I miss rehearsals?**  
-We understand life happens. Regular attendance is preferred, but we work with members' schedules.
 
 ---
 
 ## Join Us for Carnegie Hall!
 
-We're performing at Carnegie Hall in June 2026! This is an exciting time to join CCB and be part of this historic performance. Current members who participate will have the opportunity to perform at one of the world's most prestigious venues.
+We're performing at Carnegie Hall in June 2026! This is an exciting time to join CCB and be part of this historic performance.
 
-[Learn more about our Carnegie Hall campaign](/carnegie-hall)
+[Learn more about our Carnegie Hall campaign](/CCBwebsite/carnegie-hall)
 
 ---
 
 ## Questions?
 
-Don't see your question answered? Contact us at [{{ site.email }}](mailto:{{ site.email }}) - we're happy to chat!
+Contact us at [{{ site.email }}](mailto:{{ site.email }}) - we're happy to chat!

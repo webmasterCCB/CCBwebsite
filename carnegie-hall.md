@@ -70,21 +70,17 @@ Every dollar helps make this historic performance possible. We have just **5 mon
 
 ### Donate Now
 
-<!-- REPLACE THIS SECTION with your actual payment buttons -->
-
 <div style="text-align: center; margin: 2rem 0; padding: 2rem; background: var(--white); border: 2px solid var(--primary-red); border-radius: 10px;">
   <h3 style="margin-bottom: 1rem;">Ready to Support?</h3>
   <p style="margin-bottom: 1.5rem;">Choose your preferred donation method:</p>
   
-  <!-- PayPal Button - Add your actual PayPal button code here -->
+  <!-- ADD YOUR PAYMENT BUTTONS HERE -->
   <a href="#" class="btn btn-primary" style="margin: 0.5rem;">Donate via PayPal</a>
-  
-  <!-- Or add other payment options -->
   <a href="#" class="btn" style="margin: 0.5rem;">Donate via Stripe</a>
   
   <p style="margin-top: 1.5rem; font-size: 0.9rem; color: var(--dark-gray);">
     <strong>Prefer to donate by check?</strong><br>
-    Mail to: Classic City Band, [Your Mailing Address Here]<br>
+    Mail to: Classic City Band, P.O. Box [Your Box Number], Athens, GA 30601<br>
     Memo: Carnegie Hall Fund
   </p>
 </div>
@@ -120,7 +116,7 @@ Support Classic City Band and gain visibility for your business!
 - Special recognition at Carnegie Hall performance
 - VIP reception tickets
 
-**Interested in sponsorship?** Contact us at [{{ site.email }}](mailto:{{ site.email }}) or call [YOUR PHONE NUMBER]
+**Interested in sponsorship?** Contact us at [{{ site.email }}](mailto:{{ site.email }})
 
 ---
 
