@@ -10,7 +10,7 @@ Classic City Band performs several concerts throughout the year, featuring a div
 ### Concert Calendar
 
 <div class="calendar-container">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showTz=0&src=Y184NDY1M2YzNTYxNmQwZTQ2YjUzOTRkYzY2NjEyM2UwNzYxYjNjMTM5NjU2ODY5NzY3Njg2NDViNzRmZWM2M2RlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23a79b8e" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showTz=0&src=Y184NDY1M2YzNTYxNmQwZTQ2YjUzOTRkYzY2NjEyM2UwNzYxYjNjMTM5NjU2ODY5NzY3Njg2NDViNzRmZWM2M2RlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23a79b8e&mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ---
