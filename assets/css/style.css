@@ -162,7 +162,7 @@ nav a:hover {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  min-height: 200px;
+  min-height: 350px;
 }
 
 .quick-links .link-btn {
