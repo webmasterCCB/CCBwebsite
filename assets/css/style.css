@@ -156,7 +156,7 @@ nav a:hover {
 
 /* Quick Links Section */
 .quick-links {
-  background: #003366;
+  background: #DDDDAA;
   /* ... other properties ... */
   min-height: 500px;  /* Increase this to show more of the keyboard */
   padding: 3rem 2rem 5rem 2rem;
