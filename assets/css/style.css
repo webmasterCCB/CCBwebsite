@@ -244,23 +244,6 @@ nav a:hover {
   }
 }
 
-/* Hide ensemble links on mobile */
-@media (max-width: 768px) {
-  .quick-links .ensemble-link {
-    display: none;
-  }
-  
-  .quick-links {
-    padding: 2rem 1rem;
-  }
-  
-  .quick-links .link-btn {
-    font-size: 0.85rem;
-    padding: 1rem 0.5rem;
-    flex: 0 1 30%;
-  }
-}
-
 /* Content Container */
 .container {
   max-width: 1200px;
