@@ -5,7 +5,12 @@ title: Concerts & Calendar
 
 ## Upcoming Performances
 
-Classic City Band performs several concerts throughout the year, featuring a diverse range of musical styles and repertoire.
+<strong>Classic City Band Spring Concert March 8th, 2026 at 3:00pm</strong><br>
+At Hugh Hodgson Performance Hall, University of Georgia<br>
+Featuring works by local composers!<br>
+We will also play some fantastic standard band literature, including:<br>
+First Suite in Eb, written by Gustav Holst<br>
+
 
 ### Concert Calendar
 
@@ -20,12 +25,9 @@ Classic City Band performs several concerts throughout the year, featuring a div
 ### Spring Concert
 Typically held in March or April featuring classical and contemporary works
 
-### Summer Pops Concert  
-Light, entertaining programs with popular music, movie themes, and Broadway favorites
-
 ### Fall Concert
 Our season opener featuring diverse repertoire
-
+pr
 ### Holiday Concert
 Festive music to celebrate the season
 
