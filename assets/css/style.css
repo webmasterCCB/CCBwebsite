@@ -156,7 +156,7 @@ nav a:hover {
 
 /* Quick Links Section */
 .quick-links {
-  background: url('../images/keyboard_CCB.jpg') center center/contain no-repeat;
+  background: url('../images/keyboard_CCB.jpg') center bottom/cover no-repeat;
   padding: 3rem 2rem 5rem 2rem;
   position: relative;
   display: flex;
