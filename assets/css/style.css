@@ -157,33 +157,91 @@ nav a:hover {
 /* Quick Links Section */
 .quick-links {
   background: url('../images/keyboard_CCB.jpg') center center/cover no-repeat;
-  padding: 3rem 2rem;
+  padding: 3rem 2rem 5rem 2rem;
   position: relative;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+  gap: 2rem;
   min-height: 400px;
+  flex-wrap: wrap;
 }
 
 .quick-links .link-btn {
-  background: rgba(10, 8, 5, 0.95);  /* Warm almost-black */
-  color: var(--white);
-  padding: 1.2rem 1rem;
+  padding: 1rem;
   text-decoration: none;
   font-weight: bold;
   font-size: 1rem;
-  border-radius: 5px;
   transition: all 0.3s;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3);
   text-align: center;
-  flex: 0 1 18%;
-  max-width: 200px;
+  color: var(--white);
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 400px;
+}
+
+.quick-links .link-btn.performances {
+  background-image: url('../images/performances-bg.png');
+  width: 400px;
+  height: 190px;
+}
+
+.quick-links .link-btn.support {
+  background-image: url('../images/support-bg.png');
+  width: 400px;
+  height: 190px;
+}
+
+.quick-links .link-btn.join {
+  background-image: url('../images/join-bg.png');
+  width: 400px;
+  height: 190px;
+}
+
+.quick-links .link-btn.bigband {
+  background-image: url('../images/bigband-bg.png');
+  width: 300px;
+  height: 400px;
+}
+
+.quick-links .link-btn.polka {
+  background-image: url('../images/polka-bg.png');
+  width: 300px;
+  height: 300px;
 }
 
 .quick-links .link-btn:hover {
-  background: rgba(20, 16, 10, 0.98);  /* Slightly lighter warm black on hover */
   transform: translateY(-3px);
   box-shadow: 0 6px 15px rgba(0,0,0,0.4);
+}
+
+/* Hide ensemble links on mobile */
+@media (max-width: 768px) {
+  .quick-links .ensemble-link {
+    display: none;
+  }
+  
+  .quick-links {
+    padding: 2rem 1rem 4rem 1rem;
+    min-height: 300px;
+    gap: 1rem;
+  }
+  
+  .quick-links .link-btn {
+    width: 90%;
+    max-width: 350px;
+  }
+  
+  .quick-links .link-btn.performances,
+  .quick-links .link-btn.support,
+  .quick-links .link-btn.join {
+    height: 160px;
+  }
 }
 
 /* Hide ensemble links on mobile */
