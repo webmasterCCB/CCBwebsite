@@ -156,7 +156,9 @@ nav a:hover {
 
 /* Quick Links Section */
 .quick-links {
-  background: url('../images/keyboard_CCB.jpg') center bottom/cover no-repeat;
+  background: url('../images/keyboard_CCB.jpg') center center/cover no-repeat;
+  /* ... other properties ... */
+  min-height: 500px;  /* Increase this to show more of the keyboard */
   padding: 3rem 2rem 5rem 2rem;
   position: relative;
   display: flex;
