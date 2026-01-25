@@ -10,13 +10,12 @@ description: Support Classic City Band's historic performance at Carnegie Hall
 
 ## A Once-in-a-Lifetime Opportunity
 
-After years of bringing music to Athens, **Classic City Band has been invited to perform at Carnegie Hall** - one of the world's most prestigious concert venues. This is a historic moment for our band and our community.
-
-For many of our 48 volunteer musicians, this represents a once-in-a-lifetime achievement. We need your help to make this dream a reality.
+After 50 years of bringing music to Athens-Clarke County, **Classic City Band has been invited to perform at Carnegie Hall** - one of the world's most prestigious concert venues. This is a historic moment for our band and our community.<br>
+We need your help to make this dream a reality.
 
 ---
 
-## Fundraising Goal: $50,000
+## Fundraising Goal: $50,000 [what is our goal?!]
 
 <div class="progress-container">
   <div class="progress-bar" style="width: 0%;">
