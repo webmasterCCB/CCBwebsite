@@ -3,9 +3,9 @@ layout: page
 title: Upcoming Performiances
 ---
 <h3 style="color: var(--primary-navy); margin-top: 1rem; margin-bottom: 0.5rem;">Classic City Band Spring Concert</h3>
-Free, ticketless concert in Hugh Hodgson Performing Arts Center March 8th<br>
+<strong></strong>Free, ticketless concert in Hugh Hodgson Performing Arts Center March 8th<br>
 Free parking onsite<br>
-Featuring works by local composers!
+Featuring works by local composers!</strong>
 
 
 <!-- FIRST EMBED - CCB / POLKA CALENDAR -->
