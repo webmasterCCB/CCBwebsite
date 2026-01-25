@@ -43,14 +43,3 @@ Festive music to celebrate the season
 **We're performing at Carnegie Hall in June 2026!** 
 <i>This is a once-in-a-lifetime opportunity for our band, and we need your support to make it happen!</i> [Learn more about our Carnegie Hall campaign](/CCBwebsite/carnegie-hall).
 
----
-
-## Past Performances
-
-Check out recordings from our previous concerts on our [YouTube channel]({{ site.youtube_url }}).
-
----
-
-## Mailing List
-
-Never miss a concert! Contact us at [{{ site.email }}](mailto:{{ site.email }}) to join our mailing list.
