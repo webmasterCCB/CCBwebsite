@@ -31,20 +31,20 @@ Our repertoire includes:
 
 [Add information about your conductor(s) here - biography, credentials, photo]
 
-### Band Leadership
+### The Classic City Band Board
 
-- **President:** [Name]
-- **Vice President:** [Name]
-- **Treasurer:** [Name]
-- **Secretary:** [Name]
+- **President:** Davis Clark
+- **Vice President:** David Floyd
+- **Treasurer:** Lee Carmon
+- **Secretary:** Steven E. Cumblidge
 
 ### Rehearsals
 
-We rehearse [Day of week] evenings from [Time] at [Location].
+We rehearse Tuesday evenings from 6:30 at Cedar Shoals High School.
 
 ### Performance Venues
 
-We perform at various venues throughout Athens, including [list your typical performance venues].
+We perform at various venues throughout the Athens-Clarke County and surrounding areas, including the Hugh Hodgson Performance Hall on the UGA campus.
 
 ---
 
@@ -52,7 +52,7 @@ We perform at various venues throughout Athens, including [list your typical per
 
 Want to learn more about Classic City Band?
 
-- Follow us on [Facebook]({{ site.facebook_url }})
+- Follow us on [Facebook]({{ site.[facebook_url](https://www.facebook.com/search/top?q=classic%20city%20band) }})
 - Follow us on [Instagram]({{ site.instagram_url }})
 - Subscribe to our [YouTube channel]({{ site.youtube_url }})
 
