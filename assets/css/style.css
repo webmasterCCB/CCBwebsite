@@ -244,6 +244,11 @@ nav a:hover {
   .quick-links .link-btn.join {
     height: 160px;
   }
+  .quick-links .link-btn.bigband,
+  .quick-links .link-btn.polka {
+    width: 200px;
+    max-width: 200px;
+  }
 }
 
 /* Content Container */
