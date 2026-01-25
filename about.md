@@ -18,6 +18,8 @@ Michael Brewer is a lifelong Classic City resident; he was born in Athens and ha
 - **Treasurer:** Lee Carmon
 - **Secretary:** Steven E. Cumblidge
 
+---
+
 ### Rehearsals
 
 We rehearse Tuesday evenings at Cedar Shoals High School starting promptly at 6:30.
