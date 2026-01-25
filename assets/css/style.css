@@ -135,13 +135,13 @@ nav a:hover {
   transform: translateX(-50%);
   font-size: 1.5rem;
   font-weight: bold;
-  color: var(--accent-gold);
+  color: var(--primary-navy);
   text-shadow: 
     0 2px 4px rgba(0,0,0,1),
-    -1px -1px 0 #fff,
-    1px -1px 0 #fff,
-    -1px 1px 0 #fff,
-    1px 1px 0 #fff;
+    -2px -2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px 2px 0 #fff;
   width: 100%;
   text-align: center;
 }
@@ -152,13 +152,13 @@ nav a:hover {
   left: 50%;
   transform: translateX(-50%);
   font-size: 1rem;
-  color: var(--accent-gold);
+  color: var(--primary-navy);
   text-shadow: 
     0 2px 4px rgba(0,0,0,1),
-    -1px -1px 0 #fff,
-    1px -1px 0 #fff,
-    -1px 1px 0 #fff,
-    1px 1px 0 #fff;
+    -2px -2px 0 #fff,
+    2px -2px 0 #fff,
+    -2px 2px 0 #fff,
+    2px 2px 0 #fff;
   width: 100%;
   text-align: center;
 }
