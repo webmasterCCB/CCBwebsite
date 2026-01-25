@@ -128,10 +128,6 @@ nav a:hover {
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-.hero .carnegie-badge {
-  position: relative;
-}
-
 .hero .carnegie-badge .badge-title {
   position: absolute;
   top: 1rem;
