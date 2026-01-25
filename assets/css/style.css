@@ -138,10 +138,10 @@ nav a:hover {
   color: var(--primary-navy);
   text-shadow: 
     0 2px 4px rgba(0,0,0,1),
-    -2px -2px 0 #fff,
-    2px -2px 0 #fff,
-    -2px 2px 0 #fff,
-    2px 2px 0 #fff;
+    -3px -3px 0 #fff,
+    3px -3px 0 #fff,
+    -3px 3px 0 #fff,
+    3px 3px 0 #fff;
   width: 100%;
   text-align: center;
 }
@@ -155,10 +155,10 @@ nav a:hover {
   color: var(--primary-navy);
   text-shadow: 
     0 2px 4px rgba(0,0,0,1),
-    -2px -2px 0 #fff,
-    2px -2px 0 #fff,
-    -2px 2px 0 #fff,
-    2px 2px 0 #fff;
+    -3px -3px 0 #fff,
+    3px -3px 0 #fff,
+    -3px 3px 0 #fff,
+    3px 3px 0 #fff;
   width: 100%;
   text-align: center;
 }
