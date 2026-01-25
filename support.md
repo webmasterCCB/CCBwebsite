@@ -10,8 +10,7 @@ Classic City Band is a volunteer organization that relies on the generous suppor
 - Purchase music and pay licensing fees
 - Rent rehearsal and performance spaces
 - Maintain instruments and equipment
-- Provide opportunities for our volunteer musicians
-- Offer free or low-cost concerts to our community
+- Offer free concerts to our community
 
 ---
 
