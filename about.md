@@ -9,7 +9,7 @@ Classic City Band is Athens-Clark County's official municipal concert band, now 
 
 ### The Classic City Band Director: Michael Brewer<br>
 
-Michael Brewer is a lifelong Classic City resident; he was born in Athens and has lived in or near the area his entire life, playing in the Classic City Band while he was in high school. Mr. Brewer is currently employed as a Web Developer at the University of Georgia, and is also a board member and secretary of the US PostgreSQL Association. A Phi Beta Kappa, summa cum laude graduate of UGA, with degrees in music and mathematics, Mr. Brewer was a member of Phi Mu Alpha Sinfonia music fraternity. He has played trombone for the Athens Symphony for the last 20 years; he also directs the Athens Brass Choir, a community brass ensemble he founded in 2002. He has studied instrumental conducting with Albert Ligotti, H. Dwight Satterwhite, and Mark Parker. A member of the American Society of Composers, Authors and Publishers (ASCAP), his compositions have been performed at UGA, Brevard Music Center, and the Interlochen Arts Camp; his arrangement A Christmas Carol Sing Along has been performed by the Athens Symphony on their Christmas concerts for the past several years, and he recently composed, orchestrated the score, and directed the pit orchestra for a one-act musical drama, Song of a Child.
+Michael Brewer is a lifelong Classic City resident; he was born in Athens and has lived in or near the area his entire life, playing in the Classic City Band while he was in high school. Mr. Brewer is currently employed as a Web Developer at the University of Georgia, and is also a board member and secretary of the US PostgreSQL Association. A Phi Beta Kappa, summa cum laude graduate of UGA, with degrees in music and mathematics, Mr. Brewer was a member of Phi Mu Alpha Sinfonia music fraternity. He has played trombone in the Athens Symphony for over 35 years; he also directs the Athens Brass Choir, a community brass ensemble he founded in 2002. He has studied wind conducting with Robert Ambrose, Mark Parker, T. Devin Reid, and H. Dwight Satterwhite, orchestral conducting with Mark Cedel, Tamara Dworetz, and Albert Ligotti, and choral conducting with Daniel Bara, Deanna Joseph, and Meghan Stoll. A member of the American Society of Composers, Authors and Publishers (ASCAP), his compositions have been performed at UGA, Brevard Music Center, and the Interlochen Arts Camp; his arrangement <i>A Christmas Carol Sing Along</i> has been performed by the Athens Symphony on their Christmas concerts for the past several years, and he composed, orchestrated the score, and directed the pit orchestra for a one-act musical drama, <i>Song of a Child.</i>
 
 ### The Classic City Band Board
 
@@ -17,6 +17,7 @@ Michael Brewer is a lifelong Classic City resident; he was born in Athens and ha
 - **Vice President:** David Floyd
 - **Treasurer:** Lee Carmon
 - **Secretary:** Steven E. Cumblidge
+- **Director:** Michael Brewer
 
 ---
 
