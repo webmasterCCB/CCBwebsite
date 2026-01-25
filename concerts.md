@@ -14,7 +14,7 @@ First Suite in Eb, written by Gustav Holst<br>
 <!-- FIRST EMBED - CCB ONLY CALENDAR -->
 
 <div class="calendar-container">
-<iframe src="YOUR_CCB_ONLY_CALENDAR_EMBED_CODE_HERE&mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&src=Y18wNzNjNzU0MjdkOThjYWUxNjYzYmViNWQxMjcyY2M4MGNlZGEwOGFkNTIzN2Q5NTI5MWI2NDdlMjdjYjc4NWNmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23e4c441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>&mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ---
