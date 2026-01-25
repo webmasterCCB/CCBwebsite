@@ -41,29 +41,9 @@ Every dollar helps make this historic performance possible. We have just **5 mon
 
 <div style="background: var(--light-gray); padding: 2rem; border-radius: 10px; margin: 2rem 0;">
 
-**🎵 Friend of the Band - $25**
+**GIVING LEVELS**
 - Name listed in Carnegie Hall program
 
-**🎺 Supporter - $100**
-- Name in program
-- Recognition on our website
-- Social media thank you
-
-**🎼 Patron - $250**
-- All above benefits
-- Signed Carnegie Hall commemorative poster
-
-**🏆 Benefactor - $500**
-- All above benefits
-- Invitation to pre-concert reception
-
-**⭐ Sponsor a Member - $1,200**
-- Fully sponsor one band member's participation
-- All above benefits
-- Special recognition in program and at concert
-
-**💝 Custom Amount**
-- Every contribution makes a difference!
 
 </div>
 
