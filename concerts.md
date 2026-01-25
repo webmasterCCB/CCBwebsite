@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Upcoming Performiances
+title: Upcoming Performances
 ---
 <h3 style="color: var(--primary-navy); margin-top: 1rem; margin-bottom: 0.5rem;">Classic City Band Spring Concert</h3>
 <strong></strong>Free, ticketless concert in Hugh Hodgson Performing Arts Center March 8th<br>
