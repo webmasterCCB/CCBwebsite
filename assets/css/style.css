@@ -151,7 +151,7 @@ nav a:hover {
   bottom: 1rem;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 1rem;
+  font-size: 1.5rem;
   color: var(--primary-navy);
   text-shadow: 
     0 2px 4px rgba(0,0,0,1),
