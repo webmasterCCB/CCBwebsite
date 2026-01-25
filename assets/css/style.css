@@ -176,7 +176,7 @@ nav a:hover {
   font-size: 1rem;
   transition: all 0.3s;
   text-align: center;
-  color: var(--white);
+  color: var(--primary-navy);
   text-shadow: 0 2px 4px rgba(0,0,0,0.5);
   background-size: contain;
   background-repeat: no-repeat;
