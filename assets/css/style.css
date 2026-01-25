@@ -156,7 +156,7 @@ nav a:hover {
 
 /* Quick Links Section */
 .quick-links {
-  background: #DDDDAA;
+  background: #a34514;
   /* ... other properties ... */
   min-height: 500px;  /* Increase this to show more of the keyboard */
   padding: 3rem 2rem 5rem 2rem;
@@ -176,7 +176,7 @@ nav a:hover {
   font-size: 1rem;
   transition: all 0.3s;
   text-align: center;
-  color: var(--primary-navy);
+  color: var(--accent-gold);
   text-shadow: 0 2px 4px rgba(0,0,0,0.5);
   background-size: contain;
   background-repeat: no-repeat;
@@ -213,8 +213,8 @@ nav a:hover {
 
 .quick-links .link-btn.polka {
   background-image: url('../images/polka-bg.png');
-  width: 266px;
-  height: 266px;
+  width: 200px;
+  height: 200px;
 }
 
 .quick-links .link-btn:hover {
