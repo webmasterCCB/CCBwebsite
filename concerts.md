@@ -14,7 +14,7 @@ Featuring works by local composers!</strong>
 <div class="calendar-container">
 <iframe src="https://calendar.google.com/calendar/embed?height=350&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=AGENDA&src=Y18wNzNjNzU0MjdkOThjYWUxNjYzYmViNWQxMjcyY2M4MGNlZGEwOGFkNTIzN2Q5NTI5MWI2NDdlMjdjYjc4NWNmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23e4c441" style="border:solid 1px #777" width="500" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
-
+---
 <!-- SECOND EMBED - BBA ONLY CALENDAR -->
 <h3 style="color: var(--primary-navy); margin-top: 1rem; margin-bottom: 0.5rem;">Big Band Athens Performance Calendar</h3>
 
