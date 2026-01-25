@@ -440,6 +440,7 @@ footer {
 }
 
 .calendar-container iframe {
+  max-width: 500px;
   width: 100%;
   border: none;
   border-radius: 8px;
