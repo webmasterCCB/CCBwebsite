@@ -123,44 +123,9 @@ nav a:hover {
 }
 
 .hero .carnegie-badge img {
-  max-width: 500px;
+  max-width: 350px;
   height: auto;
   box-shadow: 0 4px 10px rgba(0,0,0,0.3);
-}
-
-.hero .carnegie-badge .badge-title {
-  position: absolute;
-  top: 1rem;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: var(--primary-navy);
-  text-shadow: 
-    0 2px 4px rgba(0,0,0,1),
-    -3px -3px 0 #fff,
-    3px -3px 0 #fff,
-    -3px 3px 0 #fff,
-    3px 3px 0 #fff;
-  width: 100%;
-  text-align: center;
-}
-
-.hero .carnegie-badge .badge-subtitle {
-  position: absolute;
-  bottom: 1rem;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 1.5rem;
-  color: var(--primary-navy);
-  text-shadow: 
-    0 2px 4px rgba(0,0,0,1),
-    -3px -3px 0 #fff,
-    3px -3px 0 #fff,
-    -3px 3px 0 #fff,
-    3px 3px 0 #fff;
-  width: 100%;
-  text-align: center;
 }
 
 .btn {
