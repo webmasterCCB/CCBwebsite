@@ -11,18 +11,19 @@ Featuring works by local composers!<br>
 We will also play some fantastic standard band literature, including:<br>
 First Suite in Eb, written by Gustav Holst<br>
 
-<!-- FIRST EMBED - CCB ONLY CALENDAR -->
+<!-- FIRST EMBED - CCB / POLKA CALENDAR -->
+### Big Band Athens Upcoming Performances
 
 <div class="calendar-container">
 <iframe src="https://calendar.google.com/calendar/embed?height=350&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=AGENDA&src=Y18wNzNjNzU0MjdkOThjYWUxNjYzYmViNWQxMjcyY2M4MGNlZGEwOGFkNTIzN2Q5NTI5MWI2NDdlMjdjYjc4NWNmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23e4c441" style="border:solid 1px #777" width="800" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ---
-
+<!-- SECOND EMBED - BBA ONLY CALENDAR -->
 ### Big Band Athens Upcoming Performances
 
 <div class="calendar-container">
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FNew_York&showPrint=0&showTz=0&src=Y184NDY1M2YzNTYxNmQwZTQ2YjUzOTRkYzY2NjEyM2UwNzYxYjNjMTM5NjU2ODY5NzY3Njg2NDViNzRmZWM2M2RlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&mode=AGENDA" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=350&wkst=1&ctz=America%2FNew_York&showPrint=0&showTz=0&src=Y184NDY1M2YzNTYxNmQwZTQ2YjUzOTRkYzY2NjEyM2UwNzYxYjNjMTM5NjU2ODY5NzY3Njg2NDViNzRmZWM2M2RlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&mode=AGENDA" style="border:solid 1px #777" width="800" height="350" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ---
