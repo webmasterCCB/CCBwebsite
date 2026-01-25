@@ -12,7 +12,7 @@ We will also play some fantastic standard band literature, including:<br>
 First Suite in Eb, written by Gustav Holst<br>
 
 <!-- FIRST EMBED - CCB / POLKA CALENDAR -->
-### Big Band Athens Upcoming Performances
+<h3 style="color: var(--primary-navy); margin-top: 2rem; margin-bottom: 0.5rem;">Classic City Band Upcoming Performances</h3>
 
 <div class="calendar-container"8>
 <iframe src="https://calendar.google.com/calendar/embed?height=350&wkst=1&ctz=America%2FNew_York&showPrint=0&mode=AGENDA&src=Y18wNzNjNzU0MjdkOThjYWUxNjYzYmViNWQxMjcyY2M4MGNlZGEwOGFkNTIzN2Q5NTI5MWI2NDdlMjdjYjc4NWNmQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23e4c441" style="border:solid 1px #777" width="600" height="350" frameborder="0" scrolling="no"></iframe>
@@ -21,7 +21,7 @@ First Suite in Eb, written by Gustav Holst<br>
 <h3 style="color: var(--primary-navy); margin-top: 2rem; margin-bottom: 0.5rem;">Big Band Athens Upcoming Performances</h3>
 
 <!-- SECOND EMBED - BBA ONLY CALENDAR -->
-### Big Band Athens Upcoming Performances
+<h3 style="color: var(--primary-navy); margin-top: 2rem; margin-bottom: 0.5rem;">Big Band Athens Upcoming Performances</h3>
 
 <div class="calendar-container">
 <iframe src="https://calendar.google.com/calendar/embed?height=350&wkst=1&ctz=America%2FNew_York&showPrint=0&showTz=0&src=Y184NDY1M2YzNTYxNmQwZTQ2YjUzOTRkYzY2NjEyM2UwNzYxYjNjMTM5NjU2ODY5NzY3Njg2NDViNzRmZWM2M2RlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&mode=AGENDA" style="border:solid 1px #777" width="600" height="350" frameborder="0" scrolling="no"></iframe>
