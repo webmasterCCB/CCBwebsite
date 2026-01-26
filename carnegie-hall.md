@@ -14,7 +14,7 @@ After 50 years of bringing music to Athens-Clarke County, **Classic City Band ha
 We need your help to make this dream a reality.
 
 ---
-
+<!--
 ## Fundraising Goal: $50,000 [what is our goal?!]
 
 <div class="progress-container">
@@ -32,7 +32,7 @@ We need your help to make this dream a reality.
 - **$6,600** - Travel and lodging assistance for our volunteer musicians
 
 Every dollar helps make this historic performance possible. We have just **5 months** to reach our goal.
-
+-->
 ---
 
 ## Ways to Support
