@@ -30,7 +30,7 @@ h1, h2, h3 {
 
 /* Header */
 header {
-  background: var(--white);
+  background: 556692;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   position: sticky;
   top: 0;
@@ -44,17 +44,23 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;  /* Needed for absolute positioning of logo */
 }
 
 .logo-section {
   display: flex;
   align-items: center;
   gap: 1rem;
+  position: absolute;
+  left: 2rem;
+  top: 1rem;
+  z-index: 1001;  /* Above everything else */
 }
 
 .logo-section img {
-  height: 60px;
+  height: 120px;  /* Make it bigger */
   width: auto;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3);  /* Optional: add shadow for depth */
 }
 
 .site-title {
@@ -88,7 +94,7 @@ nav a:hover {
   background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: darken;
   color: var(--white);
-  padding: 8rem 2rem 3rem 2rem;
+  padding: 10rem 2rem 3rem 2rem;  /* Increase top padding from 8rem to 10rem */
   text-align: left;
   position: relative;
   display: flex;
