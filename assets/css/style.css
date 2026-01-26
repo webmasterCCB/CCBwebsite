@@ -75,6 +75,7 @@ nav ul {
   list-style: none;
   display: flex;
   gap: 2rem;
+  margin-left: 150px;  /* Push nav links to the right */
 }
 
 nav a {
