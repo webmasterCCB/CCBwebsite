@@ -3,7 +3,7 @@ layout: page
 title: Join Classic City Band
 ---
 
-## We Want You in Our Band!
+## Come join us and make some music!
 
 Classic City Band welcomes musicians of all levels who are passionate about making music together. Whether you're a seasoned professional, a music teacher, a college student, or someone returning to your instrument after years away, we'd love to have you join us.
 
@@ -20,34 +20,24 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
 
 We accept all woodwind, brass, and percussion instruments. We are particularly seeking:
 
-- Clarinets (all parts)
-- Flutes and Piccolo
+- Clarinets
 - Oboe and English Horn
 - Bassoons
-- Saxophones (all types)
-- French Horns
-- Trumpets
-- Trombones
-- Euphoniums/Baritones
-- Tubas
 - Percussion
 
 **But don't let this list stop you!** Contact us about any band instrument.
 
 ### Rehearsal Schedule
 
-- **When:** [Day of week] evenings
-- **Time:** [Start time] to [End time]
-- **Location:** [Rehearsal location and address]
-- **Season:** [When rehearsals run]
+- **When:** Tuesday evenings
+- **Time:** 6:30pm - 8:00pm (until 8:30pm the last few rehearsals before a performance)
+- **Location:** Cedar Shoals High School bandroom
 
 ### How to Join
 
 **Interested in joining?** We'd love to hear from you!
 
-1. **Contact us:** Email [{{ site.email }}](mailto:{{ site.email }})
-2. **Come to a rehearsal:** Visit us on a rehearsal night to see what we're all about
-3. **Bring your instrument:** Sit in and play with us!
+- Please fill in this form and we'll respond ASAP
 
 ### Frequently Asked Questions
 
@@ -55,16 +45,16 @@ We accept all woodwind, brass, and percussion instruments. We are particularly s
 No formal audition is required. We welcome dedicated musicians of varying skill levels.
 
 **What if I haven't played in years?**  
-That's okay! Many of our members returned to music after long breaks. We're here to support each other.
+That's okay! Many of our members returned to music after long breaks. We're here to support each other. This is where you need to be to get your chops back!
 
 **Is there a membership fee?**  
-[Add your membership fee information here]
+There is no membership fee nor any dues required to play with the Classic City Band!
 
 **Can I join mid-season?**  
-Yes! While it's easiest to join at the start of our season, we welcome new members throughout the year.
+Yes! While it's easiest to join at the start of our season, we welcome new members throughout the year. (Talk to your section leader to find out about rehearsal requirements to perform on stage with us)
 
 ---
-
+<!--
 ## Join Us for Carnegie Hall!
 
 We're performing at Carnegie Hall in June 2026! This is an exciting time to join CCB and be part of this historic performance.
@@ -72,7 +62,7 @@ We're performing at Carnegie Hall in June 2026! This is an exciting time to join
 [Learn more about our Carnegie Hall campaign](/CCBwebsite/carnegie-hall)
 
 ---
-
+-->
 ## Questions?
 
 Contact us at [{{ site.email }}](mailto:{{ site.email }}) - we're happy to chat!
