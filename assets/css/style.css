@@ -52,7 +52,7 @@ header {
   align-items: center;
   gap: 1rem;
   position: absolute;
-  left: 2rem;
+  left: .75rem;
   top: 1rem;
   z-index: 1001;  /* Above everything else */
 }
