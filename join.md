@@ -32,7 +32,7 @@ Yes! While it's easiest to join at the start of our season, we welcome new membe
 ### Let us know you want to join us
 - Please fill in this form and we'll have a seat for you in the band
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEF2e36z9cN2HCHVdY6lVDWfkp1SbWnz02BMgkQM4EK9FadQ/viewform" width="700" height="3200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEF2e36z9cN2HCHVdY6lVDWfkp1SbWnz02BMgkQM4EK9FadQ/viewform" width="700" height="2600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ---
 
 
