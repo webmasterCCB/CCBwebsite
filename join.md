@@ -16,17 +16,6 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
 - **No Audition Required** - We welcome dedicated musicians at all levels
 - **Volunteer-Based** - All members are volunteers who share a love of music
 
-### What We're Looking For
-
-We accept all woodwind, brass, and percussion instruments. We are particularly seeking:
-
-- Clarinets
-- Oboe and English Horn
-- Bassoons
-- Percussion
-
-**But don't let this list stop you!** Contact us about any band instrument.
-
 ### Rehearsal Schedule
 
 - **When:** Tuesday evenings
