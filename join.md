@@ -21,19 +21,19 @@ There is no membership fee nor any dues required to play with the Classic City B
 **Can I join mid-season?**  
 Yes! While it's easiest to join at the start of our season, we welcome new members throughout the year. (Talk to your section leader to find out about rehearsal requirements to perform on stage with us)
 
-**Who is in the band?** Fellow musicians from the Athens-Clarke County area who love playing together
+**What is the Rehearsal Schedule?**
+Tuesday evenings from 6:30pm - 8:00pm (until 8:30pm the last few rehearsals before a performance)
+We rehearse in the Cedar Shoals High School bandroom
 ---
-### Rehearsal Schedule
+### Please fill in this form and we'll have a seat for you in the band
 
-- **When:** Tuesday evenings
-- **Time:** 6:30pm - 8:00pm (until 8:30pm the last few rehearsals before a performance)
-- **Location:** Cedar Shoals High School bandroom
----
-### Let us know you want to join us
-- Please fill in this form and we'll have a seat for you in the band
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEF2e36z9cN2HCHVdY6lVDWfkp1SbWnz02BMgkQM4EK9FadQ/viewform" width="700" height="2600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
----
+<iframe src="..." width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<div style="margin: 2rem 0; max-width: 700px; width: 100%;">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEF2e36z9cN2HCHVdY6lVDWfkp1SbWnz02BMgkQM4EK9FadQ/viewform" width="100%" height="2600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</div>
+  ---
 
 
 ## Questions?
