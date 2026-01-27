@@ -10,8 +10,7 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
 ### Why Join CCB?
 
 - **Perform Quality Repertoire** - We play challenging and rewarding music across all styles
-- **Community** - Make lifelong friends with fellow musicians
-- **Regular Performances** - Multiple concerts throughout the year
+- **Community** - Find fellow musicians from the Athens-Clarke County area and play great music
 - **Professional Environment** - Well-organized rehearsals and performances
 - **No Audition Required** - We welcome dedicated musicians at all levels
 - **Volunteer-Based** - All members are volunteers who share a love of music
@@ -23,10 +22,10 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
 - **Location:** Cedar Shoals High School bandroom
 ---
 ### How to Join
-
-**Interested in joining?** We'd love to hear from you!
-
 - Please fill in this form and we'll respond ASAP
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEF2e36z9cN2HCHVdY6lVDWfkp1SbWnz02BMgkQM4EK9FadQ/viewform" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ### Frequently Asked Questions
 
