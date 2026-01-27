@@ -24,7 +24,7 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
 ### How to Join
 - Please fill in this form and we'll respond ASAP
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEF2e36z9cN2HCHVdY6lVDWfkp1SbWnz02BMgkQM4EK9FadQ/viewform" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScEF2e36z9cN2HCHVdY6lVDWfkp1SbWnz02BMgkQM4EK9FadQ/viewform" width="640" height="3200" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ### Frequently Asked Questions
