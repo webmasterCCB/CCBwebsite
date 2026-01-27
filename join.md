@@ -15,13 +15,13 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
 - **Professional Environment** - Well-organized rehearsals and performances
 - **No Audition Required** - We welcome dedicated musicians at all levels
 - **Volunteer-Based** - All members are volunteers who share a love of music
-
+---
 ### Rehearsal Schedule
 
 - **When:** Tuesday evenings
 - **Time:** 6:30pm - 8:00pm (until 8:30pm the last few rehearsals before a performance)
 - **Location:** Cedar Shoals High School bandroom
-
+---
 ### How to Join
 
 **Interested in joining?** We'd love to hear from you!
