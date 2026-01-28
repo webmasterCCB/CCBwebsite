@@ -34,7 +34,7 @@ permalink: /support/
 
 <h2>Kroger Community Rewards Program</h2>
 
-<p>Support Classic City Band at no cost to you! Every time you shop at Kroger using your rewards card, a percentage of your purchase will be donated to CCB.</p>
+<p>Support Classic City Band at no cost to you! Every time you shop at Kroger using your rewards card, a percentage of your purchase will be donated to CCB. If you don't have a rewards card, but you do shop at Kroger, you can register for one when you next shop there. (The card allows you to take advantage of their BOGO and other discounted offers!)</p>
 
 <h3>How to Enroll:</h3>
 
