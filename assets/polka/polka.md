@@ -12,7 +12,7 @@ The German Polka Band is a spirited ensemble performing traditional German and E
        alt="German Polka Band performing" 
        style="max-width: 100%; height: auto; border-radius: 8px;">
   <figcaption style="margin-top: 0.5rem; font-style: italic; color: #666;">
-    The German Polka Band
+    Members of the German Polka Band
   </figcaption>
 </figure>
 
