@@ -34,20 +34,7 @@ permalink: /support/
 
 <h2>Kroger Community Rewards Program</h2>
 
-<p>Support Classic City Band at no cost to you! Every time you shop at Kroger using your rewards card, a percentage of your purchase will be donated to CCB. If you don't have a rewards card, but you do shop at Kroger, you can register for one when you next shop there. (The card allows you to take advantage of their BOGO and other discounted offers!)</p>
-
-<h3>How to Enroll:</h3>
-
-<ol>
-  <li>Visit <a href="https://www.kroger.com" target="_blank">kroger.com</a></li>
-  <li>Sign in to your Kroger account (or create one)</li>
-  <li>Click on "My Account" then "Community Rewards"</li>
-  <li>Search for "Classic City Band" or enter our NPO number: <strong>EJ119</strong></li>
-  <li>Click "Enroll" and you're done!</li>
-  <li>Shop as usual - your purchases now support CCB!</li>
-  <li>Remember to use your Kroger Plus Card at checkout!</li>
-</ol>
-
+<p>Support Classic City Band at no cost to you! Every time you shop at Kroger using your rewards card, a percentage of your purchase will be donated to CCB. If you don't have a rewards card, but you do shop at Kroger, you can register for one at one of their stores. You'll also need a login for <a href="https://www.kroger.com" target="_blank">kroger.com</a>. By signing up, you'll have ways to save while shopping at Kroger, plus you can take less than 5 minutes to have Kroger <strong>pay us</strong> every time you shop! Find out more at <a href="[https://www.kroger.com](https://www.kroger.com/i/community/community-rewards)" target="_blank">Kroger's Community Rewards site</a>
 <p><strong>Important:</strong> Re-enroll every year (typically April 1st) to continue supporting CCB.</p>
 
 <p>Questions? Contact us at <a href="mailto:outreach@classiccityband.org">outreach@classiccityband.org</a></p>
