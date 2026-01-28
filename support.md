@@ -36,16 +36,15 @@ permalink: /support/
 
 Support Classic City Band at no cost to you! Every time you shop at Kroger using your rewards card, a percentage of your purchase will be donated to CCB.
 
-### How to Enroll:
+### Here's how you do it
 
 1. Visit [kroger.com](https://www.kroger.com)
 2. Sign in to your Kroger account (or create one)
 3. Click on "My Account" then "Community Rewards"
-4. Search for "Classic City Band" or enter our NPO number: **[YOUR NPO NUMBER]**
+4. Search for "Classic City Band" or enter our NPO number: **EJ119**
 5. Click "Enroll" and you're done!
 6. Shop as usual - your purchases now support CCB!
-
-**Important:** Re-enroll every year (typically April 1st) to continue supporting CCB.
+7. Remember to use your Kroger Plus Card at checkout!
 
 Questions? Contact us at [{{ site.email }}](mailto:{{ site.email }})
 
