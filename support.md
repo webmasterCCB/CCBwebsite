@@ -13,17 +13,17 @@ permalink: /support/
 <div class="support-grid">
   <a href="/CCBwebsite/donate-general" class="support-card">
     <h3>Donate to CCB</h3>
-    <p>Support our community concerts and programs</p>
+    <p>Support our community concerts and programs with this easy-to-use PayPal link (no PayPal account required)!</p>
   </a>
   
   <a href="/CCBwebsite/donate-carnegie" class="support-card">
-    <h3>About our Carnegie Hall Trip</h3>
-    <p>Help send our band to Carnegie Hall in June 2026</p>
+    <h3>Carnegie Hall Trip</h3>
+    <p>Learn about our invitation to perform at Carnegie Hall, and find out how to help send our band to Carnegie Hall in June 2026!</p>
   </a>
   
   <a href="/CCBwebsite/members-payment" class="support-card members-only">
-    <h3>(Members Only) - Coming Soon</h3>
-    <p>Carnegie Hall Trip Payment Portal</p>
+    <h3>(Members Only)</h3>
+    <p>Carnegie Hall Trip Payment Portal (Coming Soon)</p>
   </a>
 </div>
 
