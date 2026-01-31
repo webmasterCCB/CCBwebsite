@@ -468,6 +468,9 @@ body.support-page .page-content {
   grid-template-columns: repeat(2, 1fr);
   gap: 2rem;
   margin: 2rem 0 3rem 0;
+  background: #7f96d0;
+  padding: 2rem;
+  border-radius: 10px;
 }
 
 .support-card {
