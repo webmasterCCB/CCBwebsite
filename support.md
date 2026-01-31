@@ -6,6 +6,10 @@ permalink: /support/
 
 ## Ways to Support CCB
 
+<p style="text-align: center; margin: 2rem 0; font-size: 1.2rem;">
+  <strong>🛒 Shop at Kroger?</strong> You can <a href="#kroger" style="color: var(--primary-red); font-weight: bold; text-decoration: underline;">donate for free</a> every time you shop!
+</p>
+
 <div class="support-grid">
   <a href="/CCBwebsite/donate-general" class="support-card">
     <h3>💙 Donate to CCB</h3>
@@ -23,9 +27,7 @@ permalink: /support/
   </a>
 </div>
 
-<p style="text-align: center; margin: 2rem 0; font-size: 1.2rem;">
-  <strong>🛒 Shop at Kroger?</strong> You can <a href="#kroger" style="color: var(--primary-red); font-weight: bold; text-decoration: underline;">donate for free</a> every time you shop!
-</p>
+
 
 ---
 
