@@ -7,11 +7,6 @@ permalink: /support/
 ## Ways to Support CCB
 
 <div class="support-grid">
-  <a href="#kroger" class="support-card">
-    <h3>Kroger Partnership</h3>
-    <p>Shop and donate at no cost to you! Kroger will donate a portion of their profit to the Classic City Band.</p>
-  </a>
-  
   <a href="/CCBwebsite/donate-general" class="support-card">
     <h3>Donate to CCB</h3>
     <p>Support our community concerts and programs</p>
