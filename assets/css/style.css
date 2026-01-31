@@ -462,14 +462,33 @@ footer {
 }
 
 .support-card {
-  background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-red) 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   color: var(--white);
-  padding: 3rem 2rem;
+  padding: 2rem;
   border-radius: 10px;
   text-align: center;
   text-decoration: none;
   transition: transform 0.3s, box-shadow 0.3s;
   box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 300px;
+  position: relative;
+}
+
+.support-card.general {
+  background-image: url('../images/genfund.png');
+}
+
+.support-card.carnegie {
+  background-image: url('../images/carnegiefund.png');
+}
+
+.support-card.members {
+  background-image: url('../images/memberpay.png');
 }
 
 .support-card:hover {
@@ -477,19 +496,21 @@ footer {
   box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
 
-.support-card h3 {
-  color: var(--white);
+.support-card .support-title {
+  display: block;
   font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--white);
+  text-shadow: 0 2px 4px rgba(0,0,0,0.8);
   margin-bottom: 1rem;
 }
 
-.support-card p {
-  font-size: 1rem;
-  margin: 0;
-}
-
-.support-card.members-only {
-  background: linear-gradient(135deg, var(--dark-gray) 0%, var(--primary-navy) 100%);
+.support-card .support-caption {
+  display: block;
+  font-size: 0.95rem;
+  color: var(--white);
+  text-shadow: 0 2px 4px rgba(0,0,0,0.8);
+  line-height: 1.4;
 }
 
 /* Mobile: Stack cards vertically */
@@ -500,6 +521,14 @@ footer {
   }
   
   .support-card {
-    padding: 2rem 1.5rem;
+    min-height: 250px;
+  }
+  
+  .support-card .support-title {
+    font-size: 1.3rem;
+  }
+  
+  .support-card .support-caption {
+    font-size: 0.9rem;
   }
 }
