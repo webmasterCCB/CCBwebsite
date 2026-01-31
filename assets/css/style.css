@@ -453,6 +453,15 @@ footer {
   border-radius: 8px;
 }
 
+/* Support page specific background */
+.page-content {
+  background: var(--white);
+}
+
+body.support-page .page-content {
+  background: #7f96d0;
+}
+
 /* Support Grid */
 .support-grid {
   display: grid;
@@ -462,7 +471,7 @@ footer {
 }
 
 .support-card {
-  background-size: cover;
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
   color: var(--white);
