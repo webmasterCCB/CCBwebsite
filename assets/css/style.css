@@ -69,6 +69,19 @@ header {
   font-weight: bold;
   text-decoration: none;
 }
+.logo-link {
+  display: block;
+}
+
+.header-logo {
+  height: 60px;
+  width: auto;
+  transition: opacity 0.3s;
+}
+
+.header-logo:hover {
+  opacity: 0.8;
+}
 
 /* Navigation */
 nav ul {
