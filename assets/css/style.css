@@ -136,9 +136,16 @@ nav a:hover {
   line-height: 1.4;
 }
 
-/* Hide on mobile */
+/* Hide caption on mobile */
 @media (max-width: 768px) {
   .hero-caption {
+    display: none;
+  }
+}
+
+/* Hide Carnegie badge on mobile */
+@media (max-width: 768px) {
+  .carnegie-badge {
     display: none;
   }
 }
