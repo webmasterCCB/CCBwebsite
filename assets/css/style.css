@@ -500,9 +500,10 @@ footer {
     display: none;
   }
   
-  /* Hide Carnegie badge on mobile */
-  .carnegie-badge {
-    display: none;
+/* Hide Carnegie badge on mobile */
+@media (max-width: 768px) {
+  .hero .carnegie-badge {
+    display: none !important;
   }
   
   /* Header mobile */
