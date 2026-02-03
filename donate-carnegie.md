@@ -14,7 +14,7 @@ permalink: /donate-carnegie/
 
 ### Our Historic Opportunity
 
-2026 is not only the Classic City Band's 50th anniversary (longest continuously-operating community band in Georgia history!), but also the year we are going to perform in the fantastic Carnegie Hall in New York City!
+2026 is not only the Classic City Band's 50th anniversary (longest continuously-operating community band in Georgia history!), but also the year we are going to perform in the fantastic <strong>Carnegie Hall</strong> in New York City!
 
 ### What Your Donation Supports
 
