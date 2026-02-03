@@ -5,7 +5,7 @@ permalink: /donate-carnegie/
 ---
 
 <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 1.5rem; margin-bottom: 2rem; border-radius: 5px;">
-  <strong>NOTE:</strong> This is NOT the page for members to pay their portion of the Carnegie costs - <a href="/CCBwebsite/members-payment" style="color: var(--primary-red); font-weight: bold; text-decoration: underline;">click here for that page!</a>
+  <strong>NOTE:</strong> This is NOT the page for members to pay their portion of the Carnegie costs - <a href="/members-payment" style="color: var(--primary-red); font-weight: bold; text-decoration: underline;">click here for that page!</a>
 </div>
 
 ## Help Send Classic City Band to Carnegie Hall!
