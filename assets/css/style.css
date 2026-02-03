@@ -499,6 +499,42 @@ footer {
   .hero-caption {
     display: none;
   }
+
+  /* Join Page Two-Column Layout */
+.join-container {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  margin-top: 2rem;
+}
+
+.join-text {
+  flex: 1;
+  min-width: 300px;
+}
+
+.join-form {
+  flex: 1;
+  min-width: 400px;
+}
+
+.join-form iframe {
+  width: 100%;
+  border: 1px solid var(--light-gray);
+  border-radius: 8px;
+}
+
+/* Mobile: Stack vertically */
+@media (max-width: 800px) {
+  .join-container {
+    flex-direction: column;
+  }
+  
+  .join-form {
+    min-width: 100%;
+    width: 100%;
+  }
+}
   
 /* Hide Carnegie badge on mobile */
 @media (max-width: 768px) {
