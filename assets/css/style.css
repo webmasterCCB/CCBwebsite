@@ -493,13 +493,6 @@ footer {
   line-height: 1.4;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
-  /* Hide hero caption on mobile */
-  .hero-caption {
-    display: none;
-  }
-
   /* Join Page Two-Column Layout */
 .join-container {
   display: flex;
@@ -523,6 +516,13 @@ footer {
   border: 1px solid var(--light-gray);
   border-radius: 8px;
 }
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  /* Hide hero caption on mobile */
+  .hero-caption {
+    display: none;
+  }
 
 /* Mobile: Stack vertically */
 @media (max-width: 800px) {
