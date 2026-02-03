@@ -10,7 +10,7 @@ permalink: /donate-carnegie/
 
 ## Help Send Classic City Band to Carnegie Hall!
 
-Give us your money! This is why we want to go!
+(Yes, <i>that</i> Carnegie Hall, on Manhattan!)
 
 ### Our Historic Opportunity
 
