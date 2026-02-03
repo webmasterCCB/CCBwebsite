@@ -14,15 +14,15 @@ Give us your money! This is why we want to go!
 
 ### Our Historic Opportunity
 
-[Add content about this once-in-a-lifetime opportunity]
+2026 is not only the Classic City Band's 50th anniversary (longest continuously-operating community band in Georgia history!), but also the year we are going to perform in the fantastic Carnegie Hall in New York City!
 
 ### What Your Donation Supports
 
-[Add details about trip costs, member expenses, venue fees, etc.]
+This trip is an amazing, once-in-a-lifetime opportunity for most of the band, but it is also expensive. The band still needs about $25,000 to cover all the costs - that is the costs that aren't being paid by the band members themselves. We are paying because this is a fantastic opportunity not only for us, but to put Athens-Clarke County on the marquee. 
 
 ### Fundraising Goal
 
-**Goal:** $25,000  
+**Goal:** $25,000 
 
 ### How to Donate
 
@@ -34,6 +34,10 @@ Give us your money! This is why we want to go!
     <section style="font-size: 0.75rem;"> Powered by <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-wordmark-color.svg" alt="paypal" style="height:0.875rem;vertical-align:middle;"/></section>
   </form>
 </div>
+
+### If you are a business owner and want to support us and have your name associated with this venture, please contact us!
+
+[Davis Clark, President of the CCB Board](mailto:president@classiccityband.org)
 
 ### Tax Deductibility
 
