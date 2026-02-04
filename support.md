@@ -11,6 +11,10 @@ permalink: /support/
 </p>
 
 <div class="support-grid">
+    <span class="support-title">Business Support/Advertising</span>
+    <span class="support-caption">Would you like to sponsor the Classic City Band, or advertise in our program? Email our Board President and find out how to get involved!</span>
+  </a>
+  
   <a href="/donate-general" class="support-card general">
     <span class="support-title">Donate to CCB</span>
     <span class="support-caption">Support our community concerts and programs with this easy-to-use PayPal link (no PayPal account required)!</span>
