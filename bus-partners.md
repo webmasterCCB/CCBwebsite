@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Business Partnership Opportunities
+title: Business Partnership and Advertising Opportunities
 permalink: /bus-partners/
 ---
 
 ## Partner with Classic City Band
 
-Support the arts in Athens while gaining visibility for your business.
+Please email [Davis Clark, CCB Board President](mailto:president@classiccityband.org)<br>
+More content coming soon!
 
-### Partnership Opportunities
+### Advertising in our Program
 
-[Content coming soon]
+Please email [Davis Clark, CCB Board President](mailto:president@classiccityband.org)<br>
+More content coming soon!
 
 ---
 
