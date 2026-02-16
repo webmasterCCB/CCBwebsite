@@ -23,7 +23,7 @@ permalink: /support/
   
   <a href="/members-payment" class="support-card members">
     <span class="support-title">(Members Only)</span>
-    <span class="support-caption">Carnegie Hall Trip Payment Portal (Coming Soon)</span>
+    <span class="support-caption">Carnegie Hall Trip Payment Portal</span>
   </a>
   
   <a href="/bus-partners" class="support-card business">
