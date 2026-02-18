@@ -7,35 +7,35 @@ title: Join Classic City Band
 
 Classic City Band welcomes musicians of all levels who are passionate about making music together. Whether you're a seasoned professional, a music teacher, a college student, or someone returning to your instrument after years away, we'd love to have you join us.
 
-### Frequently Asked Questions
-
-**Do I need to audition?**<br>
-No formal audition is required. We welcome dedicated musicians of varying skill levels.
-
-**What if I haven't played in years?**<br>
-That's okay! Many of our members returned to music after long breaks. We're here to support each other. This is where you need to be to get your chops back!
-
-**Is there a membership fee?**<br>
-There is no membership fee nor any dues required to play with the Classic City Band!
-
-**Can I join mid-season?**<br>
-Yes! While it's easiest to join at the start of our season, we welcome new members throughout the year. (Talk to your section leader to find out about rehearsal requirements to perform on stage with us)
-
-### Rehearsal Schedule
-
-**When:** Tuesday evenings from 6:30pm - 8:00pm (until 8:30pm the last few rehearsals before a performance)
-
-**Where:** Cedar Shoals High School bandroom
-
----
-
-### Application Form
+<div class="join-container">
+  <div class="join-text">
+    <h3>Frequently Asked Questions</h3>
+    
+    <p><strong>Do I need to audition?</strong><br>
+    No formal audition is required. We welcome dedicated musicians of varying skill levels.</p>
+    
+    <p><strong>What if I haven't played in years?</strong><br>
+    That's okay! Many of our members returned to music after long breaks. We're here to support each other. This is where you need to be to get your chops back!</p>
+    
+    <p><strong>Is there a membership fee?</strong><br>
+    There is no membership fee nor any dues required to play with the Classic City Band!</p>
+    
+    <p><strong>Can I join mid-season?</strong><br>
+    Yes! While it's easiest to join at the start of our season, we welcome new members throughout the year. (Talk to your section leader to find out about rehearsal requirements to perform on stage with us)</p>
+    
+    <h3>Rehearsal Schedule</h3>
+    <p><strong>When:</strong> Tuesday evenings from 6:30pm - 8:00pm (until 8:30pm the last few rehearsals before a performance)</p>
+    <p><strong>Where:</strong> Cedar Shoals High School bandroom</p>
+  </div>
+  
+  <div class="join-form">
+    <h3>APPLICATION FORM</h3>
 
 <style>
 .signup-form {
-  max-width: 700px;
-  margin: 2rem auto;
-  padding: 2rem;
+  max-width: 100%;
+  margin: 0;
+  padding: 1.5rem;
   background: #f9f9f9;
   border-radius: 8px;
 }
@@ -59,6 +59,7 @@ Yes! While it's easiest to join at the start of our season, we welcome new membe
   border-radius: 4px;
   font-size: 1rem;
   font-family: inherit;
+  box-sizing: border-box;
 }
 
 .signup-form .radio-group,
@@ -219,6 +220,9 @@ Yes! While it's easiest to join at the start of our season, we welcome new membe
   <!-- Submit Button -->
   <button type="submit">Submit Application</button>
 </form>
+
+  </div>
+</div>
 
 ---
 
