@@ -521,6 +521,11 @@ footer {
   border-radius: 8px;
 }
 
+.join-form h3 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
   /* Hide hero caption on mobile */
