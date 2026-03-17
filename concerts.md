@@ -48,5 +48,4 @@ Festive music to celebrate the season
 ## Special Performance - Carnegie Hall 2026
 
 **We're performing at Carnegie Hall in June 2026!** 
-<i>This is a once-in-a-lifetime opportunity for our band, and we need your support to make it happen!</i> [Learn more about our Carnegie Hall campaign](/carnegie-hall).
-
+<i>This is a once-in-a-lifetime opportunity for our band, and we need your support to make it happen!</i> [Learn more about our Carnegie Hall campaign](/donate-carnegie).
