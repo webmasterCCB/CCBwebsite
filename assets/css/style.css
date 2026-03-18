@@ -30,7 +30,7 @@ h1, h2, h3 {
 
 /* Header */
 header {
-  background: #7f96d0;
+  background: #c8e4f3;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   position: sticky;
   top: 0;
@@ -213,7 +213,7 @@ nav a:hover {
 
 /* Quick Links Section */
 .quick-links {
-  background: #925434;
+  background: #c8e4f3;
   padding: 3rem 2rem 5rem 2rem;
   position: relative;
   display: flex;
