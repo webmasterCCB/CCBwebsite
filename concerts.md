@@ -23,10 +23,12 @@ Featuring works by local composers!</strong>
  -->
  
 <h3 style="color: var(--primary-navy); margin-top: 1rem; margin-bottom: 0.5rem;">Big Band Athens</h3>
+<!--
 <strong>Next performance: Thursday, March 26·8:00 – 10:20pm<br>
 237 Prince Ave, Athens, GA 30601
 </strong><br>
-Watch this space for upcoming dates.
+ -->
+Watch this space for upcoming dates!
  
 
 ---
