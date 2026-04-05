@@ -533,6 +533,11 @@ footer {
     display: none;
   }
 
+    /* Let header scroll away on mobile */
+  header {
+    position: relative;
+  }
+
 /* Mobile: Stack vertically */
 @media (max-width: 800px) {
   .join-container {
