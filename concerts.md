@@ -7,7 +7,7 @@ All Classic City Band Concerts are free admission (except our June 28, 2026 perf
 ## Special Performance - Carnegie Hall 2026
 
 **We're performing at Carnegie Hall in June 2026!** 
-<i>This is a once-in-a-lifetime opportunity for our band, and we need your support to make it happen!</i> [Learn more about our Carnegie Hall campaign](/donate-carnegie).
+<br><i>This is a once-in-a-lifetime opportunity for our band, and we need your support to make it happen!</i> [Learn more about our Carnegie Hall campaign](/donate-carnegie).
 
 <!-- FIRST EMBED - CCB / POLKA CALENDAR -->
 <h3 style="color: var(--primary-navy); margin-top: 1rem; margin-bottom: 0.5rem;">Classic City Band Performance Calendar</h3>
