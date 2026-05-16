@@ -185,6 +185,57 @@ nav a:hover {
   border-radius: 8px;
 }
 
+/* Media Highlight Box */
+.media-highlight {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 600px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 1.5rem;
+  border-radius: 10px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  text-decoration: none;
+  transition: transform 0.3s, box-shadow 0.3s;
+  z-index: 50;
+}
+
+.media-highlight:hover {
+  transform: translate(-50%, -50%) scale(1.02);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
+}
+
+.media-badge {
+  background: var(--primary-red);
+  color: white;
+  font-weight: bold;
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 1rem;
+  letter-spacing: 0.5px;
+}
+
+.media-text {
+  color: var(--dark-gray);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  text-align: center;
+}
+
+.media-text strong {
+  color: var(--primary-red);
+}
+
+/* Hide media box on mobile */
+@media (max-width: 768px) {
+  .media-highlight {
+    display: none;
+  }
+}
+
 .btn {
   display: inline-block;
   padding: 1rem 2rem;
