@@ -68,7 +68,7 @@ title: Members Only
     </button>
     <div class="accordion-body">
       <p><strong>Weekly Rehearsals:</strong> Tuesdays 6:30 PM - 8:00 PM</p>
-      <p><strong>Location:</strong> Cedar Shoals High School Band Room</p>
+      <p><strong>Location:</strong> Ligotti Hall (June 9 and 16, then back to PAC/Orchestra Room)</p>
       <p><a href="{{ '/assets/pdfs/rehearsal-schedule.pdf' | relative_url }}" class="btn-link">📄 Download Full Schedule (PDF)</a></p>
       <p><em>PDF updated: [Date will be updated 2-3x per year]</em></p>
     </div>
@@ -98,7 +98,8 @@ title: Members Only
         <li>Black tuxedo jacket and pants</li>
         <li>White tuxedo shirt</li>
         <li>Black bowtie and cumberbund</li>
-        <li>Black shoes</li>
+        <li>Black socks and Black shoes</li>
+        <li>Note: Holiday concerts <i>may</i> have additional allowances</li>
         <li>For more information, including dress for those not wearing a tuxedo, see <a href="https://en.wikipedia.org/wiki/Black_tie" target="_blank">"Black Tie" dress code</a></li>
       </ul>
     </div>
