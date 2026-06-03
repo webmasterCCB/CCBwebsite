@@ -42,12 +42,12 @@ title: Members Only
   <!-- ACCORDION SECTION 2: MUSIC & RECORDINGS -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">Sheet Music & Recordings</span>
+      <span class="accordion-title">Parts & Recordings</span>
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
-      <h4>Sheet Music & Arrangements</h4>
-      <p><a href="https://drive.google.com/drive/folders/YOUR-FOLDER-ID" target="_blank" class="btn-link">📁 Access Music Google Drive</a></p>
+      <h4>Download your Music for Independence Day concert (July 3rd in Nicholson)</h4>
+      <p><a href="https://drive.google.com/drive/u/0/folders/17xr0agQjJwa7wOqleQky7oUYhl5lEOia" target="_blank" class="btn-link">📁 Access Music Google Drive</a></p>
       
       <h4>Director's Recording Suggestions</h4>
       <p><em>Michael's recommended recordings and performances for listening/study:</em></p>
