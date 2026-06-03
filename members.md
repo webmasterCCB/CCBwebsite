@@ -18,7 +18,7 @@ title: Members Only
   <!-- ACCORDION SECTION 1: LATEST EMAIL -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">📧 Latest Weekly Email</span>
+      <span class="accordion-title">Latest Weekly Email</span>
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
@@ -42,7 +42,7 @@ title: Members Only
   <!-- ACCORDION SECTION 2: MUSIC & RECORDINGS -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">🎵 Sheet Music & Recordings</span>
+      <span class="accordion-title">Sheet Music & Recordings</span>
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
@@ -63,7 +63,7 @@ title: Members Only
   <!-- ACCORDION SECTION 3: REHEARSAL SCHEDULE -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">📅 Rehearsal Schedule</span>
+      <span class="accordion-title">Rehearsal Schedule</span>
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
@@ -77,7 +77,7 @@ title: Members Only
   <!-- ACCORDION SECTION 4: CONCERT ATTIRE -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">👔 Concert Attire Guidelines</span>
+      <span class="accordion-title">Concert Attire Guidelines</span>
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
@@ -107,7 +107,7 @@ title: Members Only
   <!-- ACCORDION SECTION 5: BYLAWS & DOCUMENTS -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">📋 Bylaws & Documents</span>
+      <span class="accordion-title">Bylaws & Documents</span>
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
