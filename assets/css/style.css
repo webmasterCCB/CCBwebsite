@@ -262,6 +262,248 @@ nav a:hover {
   background: #a01828;
 }
 
+/* MEMBERS PAGE - PASSWORD GATE */
+.password-gate {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px;
+  background: var(--light-gray);
+  padding: 2rem;
+}
+
+.password-container {
+  background: var(--white);
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 400px;
+  width: 100%;
+}
+
+.password-container h2 {
+  color: var(--primary-navy);
+  margin-bottom: 1rem;
+}
+
+.password-container p {
+  color: var(--dark-gray);
+  margin-bottom: 1.5rem;
+}
+
+.password-container input {
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 1rem;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+.password-container input:focus {
+  outline: none;
+  border-color: var(--primary-red);
+}
+
+.password-container button {
+  width: 100%;
+  padding: 0.75rem;
+  background: var(--primary-red);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.password-container button:hover {
+  background: #a01828;
+}
+
+.error-message {
+  color: var(--primary-red);
+  font-size: 0.9rem;
+  margin-top: 1rem;
+}
+
+/* MEMBERS CONTENT */
+.members-content {
+  max-width: 900px;
+  margin: 3rem auto;
+  padding: 0 2rem;
+}
+
+/* ACCORDION STYLING */
+.accordion-item {
+  margin-bottom: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.accordion-header {
+  width: 100%;
+  padding: 1.5rem;
+  background: #f0f8ff;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: var(--primary-navy);
+  transition: background 0.3s;
+}
+
+.accordion-header:hover {
+  background: #e0f2ff;
+}
+
+.accordion-title {
+  text-align: left;
+}
+
+.accordion-icon {
+  font-size: 1.5rem;
+  font-weight: bold;
+  transition: transform 0.3s;
+}
+
+.accordion-body {
+  display: none;
+  padding: 1.5rem;
+  background: var(--white);
+  border-top: 2px solid #ddd;
+  color: var(--dark-gray);
+  line-height: 1.8;
+}
+
+.accordion-body h4 {
+  color: var(--primary-navy);
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.accordion-body h4:first-child {
+  margin-top: 0;
+}
+
+.accordion-body ul {
+  margin-left: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.accordion-body li {
+  margin-bottom: 0.5rem;
+}
+
+.accordion-body a {
+  color: var(--primary-red);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.accordion-body a:hover {
+  text-decoration: underline;
+}
+
+.accordion-body hr {
+  margin: 1.5rem 0;
+  border: none;
+  border-top: 1px solid #ddd;
+}
+
+/* EMAIL PREVIEW */
+.email-preview {
+  background: #f9f9f9;
+  padding: 1rem;
+  border-left: 4px solid var(--primary-red);
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.email-preview p {
+  margin: 0.5rem 0;
+}
+
+.email-archive {
+  list-style: none;
+  padding: 0;
+}
+
+.email-archive li {
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background: #f9f9f9;
+  border-radius: 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.email-archive a {
+  color: var(--primary-red);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.recordings-list {
+  list-style: none;
+  padding: 0;
+}
+
+.recordings-list li {
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background: #f9f9f9;
+  border-radius: 4px;
+}
+
+/* BUTTON LINK STYLE */
+.btn-link {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--primary-red);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  transition: background 0.3s;
+  margin: 0.5rem 0;
+}
+
+.btn-link:hover {
+  background: #a01828;
+}
+
+/* MOBILE RESPONSIVE */
+@media (max-width: 768px) {
+  .password-container {
+    padding: 2rem 1.5rem;
+  }
+
+  .accordion-header {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+
+  .accordion-body {
+    padding: 1rem;
+  }
+
+  .members-content {
+    margin: 2rem auto;
+    padding: 0 1rem;
+  }
+}
+
 /* Quick Links Section */
 .quick-links {
   background: #a1bac7;
