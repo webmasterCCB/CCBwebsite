@@ -483,6 +483,15 @@ nav a:hover {
   background: #a01828;
 }
 
+/* Button links inside accordion */
+.accordion-body .btn-link {
+  color: white;
+}
+
+.accordion-body .btn-link:hover {
+  color: white;
+}
+
 /* MOBILE RESPONSIVE */
 @media (max-width: 768px) {
   .password-container {
