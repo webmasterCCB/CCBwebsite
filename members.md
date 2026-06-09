@@ -52,11 +52,13 @@ title: Members Only
       <h4>Director's Recording Suggestions</h4>
       <p><em>Michael's recommended recordings and performances for listening/study:</em></p>
       <ul class="recordings-list">
-        <li><strong>Star Wars Suite</strong> - New York Pops <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Watch</a></li>
-        <li><strong>Holst: The Planets</strong> - Boston Pops <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Watch</a></li>
-        <li><strong>Sousa Marches Collection</strong> - U.S. Marine Band <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Watch</a></li>
+        <li><strong>Short videos about intonation - these are worth your time. Good intonation makes a big difference on impact, even if the audience doesn't know why!</strong></li>
+        <li><a href="https://www.youtube.com/watch?v=K2qEdE6wjvM" target="_blank">Just Intonation & Chord Adjustments</a></li>
+        <li><a href="https://www.youtube.com/watch?v=Yqa2Hbb_eIs" target="_blank">Equal Temperament vs Just Intonation </a></li>
+        <li><a href="https://www.youtube.com/watch?v=VHwnSJTefNo" target="_blank">Just Intonation vs Equal Temperament | Sounds Good</a></li>
+        <li><a href="https://www.youtube.com/watch?v=kRui9apjWAY" target="_blank">A Bach prelude in three different temperaments</a></li>
       </ul>
-      <p><em>Last updated: June 3, 2026</em></p>
+      <p><em>Last updated: June 9, 2026</em></p>
     </div>
   </div>
 
