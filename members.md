@@ -72,9 +72,9 @@ title: Members Only
     <p><strong>Weekly Rehearsals:</strong> Tuesdays 6:30 PM - 8:00 PM</p>
     <p><strong>Location:</strong>Ligotti Hall June 16th<br>PAC/Orchestra Room June 23rd, 30th</p>
     
-    <p><a href="{{ '/assets/pdfs/Carnegie-Hall-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Carnegie Hall 2026 Schedule</a></p>
+    <p><a href="{{ '/assets/documents/Carnegie-Hall-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Carnegie Hall 2026 Schedule</a></p>
     
-    <p><a href="{{ '/assets/pdfs/Independence-Day-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Independence Day 2026 Schedule</a></p>
+    <p><a href="{{ '/assets/documents/Independence-Day-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Independence Day 2026 Schedule</a></p>
     
     <p><em>Schedules updated as needed</em></p>
   </div>
