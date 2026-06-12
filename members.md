@@ -62,19 +62,23 @@ title: Members Only
     </div>
   </div>
 
-  <!-- ACCORDION SECTION 3: REHEARSAL SCHEDULE -->
-  <div class="accordion-item">
-    <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">Rehearsal Schedule (Detailed schedule coming soon)</span>
-      <span class="accordion-icon">+</span>
-    </button>
-    <div class="accordion-body">
-      <p><strong>Weekly Rehearsals:</strong> Tuesdays 6:30 PM - 8:00 PM</p>
-      <p><strong>Location:</strong> Ligotti Hall (June 9 and 16, then back to PAC/Orchestra Room)</p>
-      <p><a href="{{ '/assets/pdfs/rehearsal-schedule.pdf' | relative_url }}" class="btn-link">📄 Download Full Schedule (PDF)</a></p>
-      <p><em>PDF updated: [Date will be updated 2-3x per year]</em></p>
-    </div>
+<!-- ACCORDION SECTION 3: REHEARSAL SCHEDULE -->
+<div class="accordion-item">
+  <button class="accordion-header" onclick="toggleAccordion(this)">
+    <span class="accordion-title">Rehearsal Schedule</span>
+    <span class="accordion-icon">+</span>
+  </button>
+  <div class="accordion-body">
+    <p><strong>Weekly Rehearsals:</strong> Tuesdays 6:30 PM - 8:00 PM</p>
+    <p><strong>Location:</strong>Ligotti Hall June 16th<br>PAC/Orchestra Room June 23rd, 30th</p>
+    
+    <p><a href="{{ '/assets/pdfs/Carnegie-Hall-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Carnegie Hall 2026 Schedule</a></p>
+    
+    <p><a href="{{ '/assets/pdfs/Independence-Day-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Independence Day 2026 Schedule</a></p>
+    
+    <p><em>Schedules updated as needed</em></p>
   </div>
+</div>
 
   <!-- ACCORDION SECTION 4: CONCERT ATTIRE -->
   <div class="accordion-item">
