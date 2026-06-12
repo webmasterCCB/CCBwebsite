@@ -15,6 +15,7 @@ title: Members Only
 
 <div id="members-content" class="members-content" style="display: none;">
 
+  <!--
   <!-- ACCORDION SECTION 1: LATEST EMAIL -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
@@ -38,6 +39,7 @@ title: Members Only
       </ul>
     </div>
   </div>
+  -->
 
   <!-- ACCORDION SECTION 2: MUSIC & RECORDINGS -->
   <div class="accordion-item">
