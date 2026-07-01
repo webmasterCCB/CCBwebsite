@@ -42,13 +42,13 @@ title: Carnegie Hall 2026
       </div>
       <div class="photo-item" onclick="openLightbox(2)">
         <figure>
-          <img src="{{ '/assets/images/carnegie-3.jpg' | relative_url }}" alt="Photo from the stage inside Carnegie Hall of Michael Brewer, conductor of the Classic City Band. Taken by David Floyd July 28, 2026"style="max-width: 350px; height: auto; display: block; margin: 0 auto;">>
+          <img src="{{ '/assets/images/carnegie-3.jpg' | relative_url }}" alt="Photo from the stage inside Carnegie Hall of Michael Brewer, conductor of the Classic City Band. Taken by David Floyd July 28, 2026"style="max-width: 350px; height: auto; display: block; margin: 0 auto;">
           <figcaption>Michael Brewer prepares us for rehearsal.</figcaption>
         </figure>
       </div>
       <div class="photo-item" onclick="openLightbox(3)">
         <figure>
-          <img src="{{ '/assets/images/Carnegie-4.jpg' | relative_url }}" alt="Photo of a 'you are here' poster outside Carnegie Hall."style="max-width: 350px; height: auto; display: block; margin: 0 auto;">>
+          <img src="{{ '/assets/images/carnegie-4.jpg' | relative_url }}" alt="Photo of a 'you are here' poster outside Carnegie Hall."style="max-width: 350px; height: auto; display: block; margin: 0 auto;">
           <figcaption>"You are here." Yes, we were!</figcaption>
         </figure>
       </div>
@@ -83,7 +83,7 @@ title: Carnegie Hall 2026
       caption: "Michael Brewer prepares us for rehearsal."
     },
     {
-      src: "{{ '/assets/images/Carnegie-4.jpg' | relative_url }}",
+      src: "{{ '/assets/images/carnegie-4.jpg' | relative_url }}",
       caption: '"You are here." Yes, we were!'
     }
   ];
