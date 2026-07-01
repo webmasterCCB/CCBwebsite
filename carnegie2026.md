@@ -28,7 +28,7 @@ title: Carnegie Hall 2026
       </div>
       <div class="photo-item" onclick="openLightbox(1)">
         <figure>
-          <img src="{{ '/assets/images/carnegie-2.jpg' | relative_url }}" alt="A photo of Classic City Band members waiting to go in the stage door of Carnegie Hall. Taken on July 28, 2026 by David Floyd" style="max-width: 350px; height: auto;">>
+          <img src="{{ '/assets/images/carnegie-2.jpg' | relative_url }}" alt="A photo of Classic City Band members waiting to go in the stage door of Carnegie Hall. Taken on July 28, 2026 by David Floyd" style="max-width: 350px; height: auto;">
           <figcaption>We are lined up here for our Sunday morning rehearsal. Feeling excited and ready to see the inside in person for the first time (and oh gosh it was beautiful!)</figcaption>
         </figure>
       </div>
