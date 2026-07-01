@@ -11,22 +11,13 @@ title: Carnegie Hall 2026
     <p class="intro-text">We played in Carnegie Hall</p>
     <p>On June 28, 2026, Classic City Band took the stage at one of the world's most prestigious concert venues. It was a dream realized, a moment our musicians will never forget, and a testament to the power of community, dedication, and support.</p>
   </section>
-  <!-- (hiding this)
-  <!-- SECTION 2: TWO COLUMN LAYOUT -->
-  <div class="two-column-section">
-    <section class="carnegie-section">
-      <h2>Photos and Fun Stuff</h2>
-      <p><em>Coming soon</em></p>
-    </section>
-  -->
-
-    <section class="carnegie-section donors-section">
+  <section class="carnegie-section donors-section">
       <h2>Donors Are Amazing!</h2>
       <p>We are so blessed to have the support of the Athens-Clarke County community. Thank you so much! We did it!</p>
     </section>
   </div>
 
-  <!-- SECTION 3: PHOTO GRID -->
+  <!-- SECTION 2: PHOTO GRID -->
   <section class="carnegie-section">
     <h2>Moments from Carnegie Hall (more to come!)</h2>
       <div class="photo-item" onclick="openLightbox(0)">
