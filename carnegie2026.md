@@ -27,7 +27,7 @@ title: Carnegie Hall 2026
 
   <!-- SECTION 3: PHOTO GRID -->
   <section class="carnegie-section">
-    <h2>Moments from Carnegie Hall</h2>
+    <h2>Moments from Carnegie Hall (more to come!)</h2>
       <div class="photo-item" onclick="openLightbox(0)">
         <figure>
           <img src="{{ '/assets/images/carnegie-1.jpg' | relative_url }}" alt="Beautiful, venerable Carnegie Hall from the street." style="max-width: 350px; height: auto; display: block; margin: 0 auto;">
