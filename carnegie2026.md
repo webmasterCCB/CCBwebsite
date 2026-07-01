@@ -31,25 +31,25 @@ title: Carnegie Hall 2026
     <h2>Moments from Carnegie Hall (more to come!)</h2>
       <div class="photo-item" onclick="openLightbox(0)">
         <figure>
-          <img src="{{ '/assets/images/carnegie-1.jpg' | relative_url }}" alt="Beautiful, venerable Carnegie Hall from the street." style="max-width: 350px; height: auto; display: block; margin: 0 auto;">
+          <img src="{{ '/assets/images/carnegie-1.jpg' | relative_url }}" alt="Beautiful, venerable Carnegie Hall from the street." style="max-width: 350px; height: auto;">
           <figcaption>Beautiful, old Carnegie Hall from the street.</figcaption>
         </figure>
       </div>
       <div class="photo-item" onclick="openLightbox(1)">
         <figure>
-          <img src="{{ '/assets/images/carnegie-2.jpg' | relative_url }}" alt="A photo of Classic City Band members waiting to go in the stage door of Carnegie Hall. Taken on July 28, 2026 by David Floyd" style="max-width: 350px; height: auto; display: block; margin: 0 auto;">>
+          <img src="{{ '/assets/images/carnegie-2.jpg' | relative_url }}" alt="A photo of Classic City Band members waiting to go in the stage door of Carnegie Hall. Taken on July 28, 2026 by David Floyd" style="max-width: 350px; height: auto;">>
           <figcaption>We are lined up here for our Sunday morning rehearsal. Feeling excited and ready to see the inside in person for the first time (and oh gosh it was beautiful!)</figcaption>
         </figure>
       </div>
       <div class="photo-item" onclick="openLightbox(2)">
         <figure>
-          <img src="{{ '/assets/images/carnegie-3.jpg' | relative_url }}" alt="Photo from the stage inside Carnegie Hall of Michael Brewer, conductor of the Classic City Band. Taken by David Floyd July 28, 2026"style="max-width: 350px; height: auto; display: block; margin: 0 auto;">
+          <img src="{{ '/assets/images/carnegie-3.jpg' | relative_url }}" alt="Photo from the stage inside Carnegie Hall of Michael Brewer, conductor of the Classic City Band. Taken by David Floyd July 28, 2026"style="max-width: 350px; height: auto;">
           <figcaption>Michael Brewer prepares us for rehearsal.</figcaption>
         </figure>
       </div>
       <div class="photo-item" onclick="openLightbox(3)">
         <figure>
-          <img src="{{ '/assets/images/carnegie-4.jpg' | relative_url }}" alt="Photo of a 'you are here' poster outside Carnegie Hall."style="max-width: 350px; height: auto; display: block; margin: 0 auto;">
+          <img src="{{ '/assets/images/carnegie-4.jpg' | relative_url }}" alt="Photo of a 'you are here' poster outside Carnegie Hall."style="max-width: 350px; height: auto;">
           <figcaption>"You are here." Yes, we were!</figcaption>
         </figure>
       </div>
