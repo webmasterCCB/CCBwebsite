@@ -694,6 +694,10 @@ footer {
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
   margin-bottom: 3rem;
+  .carnegie-page h1,
+  .carnegie-page h2 {
+  color: var(--primary-navy);
+  }
 }
 
 .two-column-section .carnegie-section {
