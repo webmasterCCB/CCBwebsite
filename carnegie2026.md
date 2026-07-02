@@ -53,5 +53,83 @@ title: Carnegie Hall 2026
 
 <!-- LIGHTBOX MODAL -->
 <div id="lightbox" class="lightbox">
-  ...rest of lightbox code...
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+  <span class="lightbox-prev" onclick="prevImage()">&#10094;</span>
+  <span class="lightbox-next" onclick="nextImage()">&#10095;</span>
+  <div class="lightbox-content">
+    <img id="lightbox-image" src="" alt="">
+    <div id="lightbox-caption"></div>
+  </div>
 </div>
+
+<script>
+  const images = [
+    {
+      src: "{{ '/assets/images/carnegie-1.jpg' | relative_url }}",
+      caption: "Beautiful, venerable Carnegie Hall from the street."
+    },
+    {
+      src: "{{ '/assets/images/carnegie-2.jpg' | relative_url }}",
+      caption: "We are lined up here for our Sunday morning rehearsal. Feeling excited and ready to see the inside in person for the first time (and oh gosh it was beautiful!)"
+    },
+    {
+      src: "{{ '/assets/images/carnegie-3.jpg' | relative_url }}",
+      caption: "Michael Brewer prepares us for rehearsal."
+    },
+    {
+      src: "{{ '/assets/images/carnegie-4.jpg' | relative_url }}",
+      caption: '"You are here." Yes, we were!'
+    }
+  ];
+
+  let currentImageIndex = 0;
+
+  function openLightbox(index) {
+    currentImageIndex = index;
+    const lightbox = document.getElementById("lightbox");
+    const img = document.getElementById("lightbox-image");
+    const caption = document.getElementById("lightbox-caption");
+    
+    img.src = images[index].src;
+    caption.textContent = images[index].caption;
+    lightbox.style.display = "flex";
+    document.body.style.overflow = "hidden";
+  }
+
+  function closeLightbox() {
+    const lightbox = document.getElementById("lightbox");
+    lightbox.style.display = "none";
+    document.body.style.overflow = "auto";
+  }
+
+  function nextImage() {
+    currentImageIndex = (currentImageIndex + 1) % images.length;
+    const img = document.getElementById("lightbox-image");
+    const caption = document.getElementById("lightbox-caption");
+    img.src = images[currentImageIndex].src;
+    caption.textContent = images[currentImageIndex].caption;
+  }
+
+  function prevImage() {
+    currentImageIndex = (currentImageIndex - 1 + images.length) % images.length;
+    const img = document.getElementById("lightbox-image");
+    const caption = document.getElementById("lightbox-caption");
+    img.src = images[currentImageIndex].src;
+    caption.textContent = images[currentImageIndex].caption;
+  }
+
+  // Arrow key navigation
+  document.addEventListener("keydown", function(event) {
+    const lightbox = document.getElementById("lightbox");
+    if (lightbox.style.display === "flex") {
+      if (event.key === "ArrowRight") nextImage();
+      if (event.key === "ArrowLeft") prevImage();
+      if (event.key === "Escape") closeLightbox();
+    }
+  });
+
+  // Close lightbox when clicking outside the image
+  document.getElementById("lightbox").addEventListener("click", function(event) {
+    if (event.target === this) closeLightbox();
+  });
+</script>
