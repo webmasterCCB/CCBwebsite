@@ -689,20 +689,47 @@ footer {
 }
 
 /* CARNEGIE 2026 PAGE */
+.carnegie-page h1,
+.carnegie-page h2 {
+  color: var(--primary-navy);
+}
+
 .two-column-section {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
   margin-bottom: 3rem;
-  .carnegie-page h1,
-  .carnegie-page h2 {
-  color: var(--primary-navy);
-  }
 }
 
 .two-column-section .carnegie-section {
   border-bottom: none;
   padding-bottom: 0;
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.photo-item {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}
+
+.photo-item figure {
+  margin: 0;
+  text-align: center;
+}
+
+.photo-item figcaption {
+  padding: 1rem 0;
+  font-size: 0.95rem;
+  color: var(--dark-gray);
+  line-height: 1.6;
+  word-wrap: break-word;
 }
 
 .photo-item {
