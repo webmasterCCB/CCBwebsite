@@ -71,12 +71,14 @@ title: Members Only
     <span class="accordion-icon">+</span>
   </button>
   <div class="accordion-body">
-    <p><strong>Weekly Rehearsals:</strong> Tuesdays 6:30 PM - 8:00 PM</p>
-    <p><strong>Location:</strong>Ligotti Hall June 16th<br>PAC/Orchestra Room June 23rd, 30th</p>
+    <p><strong>Weekly Rehearsals:</strong> Tuesdays 6:30 PM - 8:30 PM</p>
+    <p><strong>Location:</strong> Cedar Shoals High School Bandroom</p>
     
-    <p><a href="{{ '/assets/documents/Carnegie-Hall-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Carnegie Hall 2026 Schedule</a></p>
+    <p><a href="{{ '/assets/documents/Fall2026schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Fall 2026 Schedule</a></p>
     
-    <p><a href="{{ '/assets/documents/Independence-Day-2026-schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Independence Day 2026 Schedule</a></p>
+    <p><a href="{{ '/assets/documents/Holiday2026schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Holiday Concert 2026 Schedule</a></p>
+    
+    <p><a href="{{ '/assets/documents/Spring2027schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Spring 2027 Schedule</a></p>
     
     <p><em>Schedules updated as needed</em></p>
   </div>
