@@ -15,7 +15,6 @@ title: Members Only
 
 <div id="members-content" class="members-content" style="display: none;">
 
-  <!--
   <!-- ACCORDION SECTION 1: LATEST EMAIL -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
@@ -39,7 +38,6 @@ title: Members Only
       </ul>
     </div>
   </div>
-  -->
 
   <!-- ACCORDION SECTION 2: MUSIC & RECORDINGS -->
   <div class="accordion-item">
@@ -51,17 +49,6 @@ title: Members Only
       <h4>Download your Music for Independence Day concert (July 3rd in Nicholson)</h4>
       <p><a href="https://drive.google.com/drive/u/0/folders/17xr0agQjJwa7wOqleQky7oUYhl5lEOia" target="_blank" class="btn-link">📁 Access Music Google Drive</a></p>
       
-      <h4>Director's Recording Suggestions</h4>
-      <p><em>Michael's recommended recordings and performances for listening/study:</em></p>
-      <ul class="recordings-list">
-        <li><strong>Short videos about intonation - these are worth your time. Good intonation makes a big difference on impact, even if the audience doesn't know why!</strong></li>
-        <li><a href="https://www.youtube.com/watch?v=K2qEdE6wjvM" target="_blank">Just Intonation & Chord Adjustments</a></li>
-        <li><a href="https://www.youtube.com/watch?v=Yqa2Hbb_eIs" target="_blank">Equal Temperament vs Just Intonation </a></li>
-        <li><a href="https://www.youtube.com/watch?v=VHwnSJTefNo" target="_blank">Just Intonation vs Equal Temperament | Sounds Good</a></li>
-        <li><a href="https://www.youtube.com/watch?v=kRui9apjWAY" target="_blank">A Bach prelude in three different temperaments</a></li>
-      </ul>
-      <p><em>Last updated: June 9, 2026</em></p>
-    </div>
   </div>
 
 <!-- ACCORDION SECTION 3: REHEARSAL SCHEDULE -->
