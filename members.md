@@ -116,6 +116,22 @@ title: Members Only
 
 </div>
 
+<!-- ACCORDION SECTION 6: RECOMMENDED MUSIC STORES -->
+<div class="accordion-item">
+  <button class="accordion-header" onclick="toggleAccordion(this)">
+    <span class="accordion-title">Recommended Music Stores</span>
+    <span class="accordion-icon">+</span>
+  </button>
+  <div class="accordion-body">
+    <p><em>Music Repair Shops, as recommended by Classic City Band members:</em></p>
+    <ul class="recordings-list">
+      <li><strong><a href="https://northgeorgiaband.com">North Georgia Band </a> is located in Tucker, GA.</li>
+      <li><strong>Store Name:</strong>Maxwell Music Supply is located in Elberton, GA. Phone number is: 706.213.7766</li>
+    </ul>
+    <p><em>Last updated: [Date]</em></p>
+  </div>
+</div>
+
 <script>
   // PASSWORD PROTECTION
   const CORRECT_PASSWORD = "Fanfare";
