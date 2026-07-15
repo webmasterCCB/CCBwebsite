@@ -47,7 +47,7 @@ title: Members Only
       <p><a href="https://drive.google.com/drive/u/0/folders/17xr0agQjJwa7wOqleQky7oUYhl5lEOia" target="_blank" class="btn-link">📁 Access Music Google Drive</a></p>
       
   </div>
-
+</div>
 <!-- ACCORDION SECTION 3: REHEARSAL SCHEDULE -->
 <div class="accordion-item">
   <button class="accordion-header" onclick="toggleAccordion(this)">
@@ -113,10 +113,10 @@ title: Members Only
 
 </div>
 
-<!-- ACCORDION SECTION 6: RECOMMENDED MUSIC STORES -->
+<!-- ACCORDION SECTION 6: RECOMMENDED INSTRUMENT REPAIR -->
 <div class="accordion-item">
   <button class="accordion-header" onclick="toggleAccordion(this)">
-    <span class="accordion-title">Recommended Music Stores</span>
+    <span class="accordion-title">Recommended Instrument Repair</span>
     <span class="accordion-icon">+</span>
   </button>
   <div class="accordion-body">
