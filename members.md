@@ -111,21 +111,20 @@ title: Members Only
     </div>
   </div>
 
-</div>
-
 <!-- ACCORDION SECTION 6: RECOMMENDED INSTRUMENT REPAIR -->
-<div class="accordion-item">
-  <button class="accordion-header" onclick="toggleAccordion(this)">
-    <span class="accordion-title">Recommended Instrument Repair</span>
-    <span class="accordion-icon">+</span>
-  </button>
-  <div class="accordion-body">
-    <p><em>Music Repair Shops, as recommended by Classic City Band members:</em></p>
-    <ul class="recordings-list">
-      <li><strong><a href="https://northgeorgiaband.com">North Georgia Band</a></strong> is located in Tucker, GA.</li>
-      <li><strong>Maxwell Music Supply</strong> is located in Elberton, GA. Phone number is: 706.213.7766</li>
-    </ul>
-    <p><em>Last updated: 7/13/26</em></p>
+  <div class="accordion-item">
+    <button class="accordion-header" onclick="toggleAccordion(this)">
+      <span class="accordion-title">Recommended Instrument Repair</span>
+      <span class="accordion-icon">+</span>
+    </button>
+    <div class="accordion-body">
+      <p><em>Music Repair Shops, as recommended by Classic City Band members:</em></p>
+      <ul class="recordings-list">
+        <li><strong><a href="https://northgeorgiaband.com">North Georgia Band</a></strong> is located in Tucker, GA.</li>
+        <li><strong><a href="https://www.maxwellmusicsupply.com/">Maxwell Music Supply</a></strong> is located in Elberton, GA. Phone number is: 706.213.7766</li>
+      </ul>
+      <p><em>Last updated: 7/13/26</em></p>
+    </div>
   </div>
 </div>
 
