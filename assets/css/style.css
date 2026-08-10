@@ -347,6 +347,36 @@ nav a:hover {
   color: white;
 }
 
+.leaders-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+.leaders-table th {
+  background: #e0f2ff;
+  color: var(--primary-navy);
+  padding: 0.75rem;
+  text-align: left;
+  font-weight: bold;
+  border-bottom: 2px solid var(--primary-navy);
+}
+
+.leaders-table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.leaders-table a {
+  color: var(--primary-navy);
+  text-decoration: none;
+}
+
+.leaders-table a:hover {
+  color: var(--primary-red);
+  text-decoration: underline;
+}
+
 /* MOBILE RESPONSIVE */
 @media (max-width: 768px) {
   .password-container {
