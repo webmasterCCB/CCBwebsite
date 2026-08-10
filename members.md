@@ -117,21 +117,21 @@ title: Members Only
       </thead>
       <tbody>
         <tr>
-          <td>Lee Cormon</td>
+          <td>Lee Carmon</td>
           <td>Flute</td>
-          <td><a href="mailto:lcormon@charter.net">lcormon@charter.net</a></td>
+          <td><a href="mailto:Lcarmon@charter.net">Lcarmon@charter.net</a></td>
           <td>(706) 308-6147</td>
         </tr>
         <tr>
           <td>Heidi Nibbelink</td>
           <td>Oboe</td>
-          <td><a href="mailto:Heidioneile17@gmail.com">Heidioneile17@gmail.com</a></td>
+          <td><a href="mailto:Heidinoelle17@gmail.com">Heidinoelle17@gmail.com</a></td>
           <td>(706) 818-2904</td>
         </tr>
         <tr>
           <td>Anita Cook</td>
           <td>Clarinet</td>
-          <td><a href="mailto:acook53@gmail.com">acook53@gmail.com</a></td>
+          <td><a href="mailto:acook530@att.net">acook530@att.net</a></td>
           <td>(706) 372-5390</td>
         </tr>
         <tr>
@@ -149,8 +149,38 @@ title: Members Only
         <tr>
           <td>Karen Castleberry</td>
           <td>Horn</td>
-          <td><a href="mailto:kycastleberry@aim.com">kycastleberry@aim.com</a></td>
+          <td><a href="mailto:kycastleberryod@aim.com">kycastleberryod@aim.com</a></td>
           <td>(404) 229-3244</td>
+        </tr>
+        <tr>
+          <td>Jerry Shannon</td>
+          <td>Trumpet</td>
+          <td><a href="mailto:jshannon13@gmail.com">jshannon13@gmail.com</a></td>
+          <td>(612) 298-0003</td>
+        </tr>
+        <tr>
+          <td>Davis Clark</td>
+          <td>Trombone</td>
+          <td><a href="mailto:davisbclark@gmail.com">davisbclark@gmail.com</a></td>
+          <td>(706) 308-6147</td>
+        </tr>
+        <tr>
+          <td>David Stone</td>
+          <td>Euphonium</td>
+          <td><a href="mailto:dkstone@earthlink.net">dkstone@earthlink.net</a></td>
+          <td>(706) 255-8384</td>
+        </tr>
+        <tr>
+          <td>Tom Hodges</td>
+          <td>Tuba</td>
+          <td><a href="mailto:tomhodges25@gmail.com">tomhodges25@gmail.com</a></td>
+          <td>(706) 318-8580</td>
+        </tr>
+        <tr>
+          <td>Barbara Reid</td>
+          <td>Percussion</td>
+          <td><a href="mailto:bkreid1953@gmail.com">bkreid1953@gmail.com</a></td>
+          <td>(706) 248-8495</td>
         </tr>
       </tbody>
     </table>
