@@ -98,7 +98,61 @@ title: Members Only
       </ul>
     </div>
   </div>
-
+<!-- ACCORDION SECTION 6: SECTION LEADERS -->
+<div class="accordion-item">
+  <button class="accordion-header" onclick="toggleAccordion(this)">
+    <span class="accordion-title">Section Leaders</span>
+    <span class="accordion-icon">+</span>
+  </button>
+  <div class="accordion-body">
+    <p><em>Contact your section leader with questions or to report absences:</em></p>
+    <table class="leaders-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Instrument</th>
+          <th>Email</th>
+          <th>Phone</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Lee Cormon</td>
+          <td>Flute</td>
+          <td><a href="mailto:lcormon@charter.net">lcormon@charter.net</a></td>
+          <td>(706) 308-6147</td>
+        </tr>
+        <tr>
+          <td>Heidi Nibbelink</td>
+          <td>Oboe</td>
+          <td><a href="mailto:Heidioneile17@gmail.com">Heidioneile17@gmail.com</a></td>
+          <td>(706) 818-2904</td>
+        </tr>
+        <tr>
+          <td>Anita Cook</td>
+          <td>Clarinet</td>
+          <td><a href="mailto:acook53@gmail.com">acook53@gmail.com</a></td>
+          <td>(706) 372-5390</td>
+        </tr>
+        <tr>
+          <td>Kenneth Reid</td>
+          <td>Clarinet</td>
+          <td><a href="mailto:kreid41@gmail.com">kreid41@gmail.com</a></td>
+          <td>(706) 658-6451</td>
+        </tr>
+        <tr>
+          <td>Cynthia Cone</td>
+          <td>Saxophone</td>
+          <td><a href="mailto:Cynlee63@aol.com">Cynlee63@aol.com</a></td>
+          <td>(803) 719-6003</td>
+        </tr>
+        <tr>
+          <td>Karen Castleberry</td>
+          <td>Horn</td>
+          <td><a href="mailto:kycastleberry@aim.com">kycastleberry@aim.com</a></td>
+          <td>(404) 229-3244</td>
+        </tr>
+  
   <!-- ACCORDION SECTION 5: BYLAWS & DOCUMENTS -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
@@ -111,7 +165,7 @@ title: Members Only
     </div>
   </div>
 
-<!-- ACCORDION SECTION 6: RECOMMENDED INSTRUMENT REPAIR -->
+<!-- ACCORDION SECTION 7: RECOMMENDED INSTRUMENT REPAIR -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
       <span class="accordion-title">Recommended Instrument Repair</span>
