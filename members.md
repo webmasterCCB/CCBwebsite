@@ -152,6 +152,10 @@ title: Members Only
           <td><a href="mailto:kycastleberry@aim.com">kycastleberry@aim.com</a></td>
           <td>(404) 229-3244</td>
         </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
   
   <!-- ACCORDION SECTION 5: BYLAWS & DOCUMENTS -->
   <div class="accordion-item">
