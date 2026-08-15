@@ -43,9 +43,9 @@ title: Members Only
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
-      <h4>Download your Music for Independence Day concert (July 3rd in Nicholson)</h4>
+      <h4>Download your Music for our upcoming concert</h4>
       <p><a href="https://drive.google.com/drive/u/0/folders/17xr0agQjJwa7wOqleQky7oUYhl5lEOia" target="_blank" class="btn-link">📁 Access Music Google Drive</a></p>
-      
+      <p><a href="https://classiccityband.org/concerts">Performance Dates</a></p>
   </div>
 </div>
 <!-- ACCORDION SECTION 3: REHEARSAL SCHEDULE -->
