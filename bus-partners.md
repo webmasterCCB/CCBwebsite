@@ -52,7 +52,7 @@ We present five Concert Band programs annually showcasing a wide variety of band
   <label for="email">Email *</label>
   <input type="email" id="email" name="email" required>
   
-  <label for="website">Website</label>
+  <label for="website">Website (not required)</label>
   <input type="url" id="website" name="website">
   
   <fieldset class="sponsorship-fieldset">
