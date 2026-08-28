@@ -780,6 +780,22 @@ footer {
   margin-bottom: 1.5rem;
 }
 
+.operating-needs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin: 1rem 0 2rem 0;
+}
+
+.needs-column p {
+  margin-bottom: 0.75rem;
+}
+
+.bus-partners-container h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
 /* CARNEGIE 2026 PAGE */
 .carnegie-page h1,
 .carnegie-page h2 {
