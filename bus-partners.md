@@ -14,11 +14,18 @@ The Classic City Band of Athens, Georgia is the "Official Municipal Band of Athe
 
 <h3>Operating Needs</h3>
 
-Our major operating expenses are:
-- Concert Venue Rental - $1500/concert
-- Music Literature Purchase - $700/concert
-- Program printing - $700/concert
-- Rehearsal & storage space - $5400/year
+<h3>Operating Needs</h3>
+
+<div class="operating-needs">
+  <div class="needs-column">
+    <p>* Concert Venue Rental - $1500/concert</p>
+    <p>* Music Literature Purchase - $700/concert</p>
+  </div>
+  <div class="needs-column">
+    <p>* Program printing - $700/concert</p>
+    <p>* Rehearsal & storage space - $5400/year</p>
+  </div>
+</div>
 
 <h3>Reach</h3>
 
