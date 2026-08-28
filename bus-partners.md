@@ -14,8 +14,6 @@ The Classic City Band of Athens, Georgia is the "Official Municipal Band of Athe
 
 <h3>Operating Needs</h3>
 
-<h3>Operating Needs</h3>
-
 <div class="operating-needs">
   <div class="needs-column">
     <p>* Concert Venue Rental - $1500/concert</p>
