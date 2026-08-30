@@ -15,7 +15,7 @@ permalink: /support/
   
   <a href="/bus-partners" class="support-card business">
     <span class="support-title">Business Sponsor</span>
-    <span class="support-caption">Partner with CCB and support the arts in Athens</span>
+    <span class="support-caption">Sponsor with CCB and support the arts in Athens</span>
   </a>  
 </div>
 ---
