@@ -78,22 +78,7 @@ We present five Concert Band programs annually showcasing a wide variety of band
   <button type="submit">Send</button>
 </form>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<script>
-  document.querySelector('.sponsor-form').addEventListener('submit', function(e) {
-    e.preventDefault();
-    grecaptcha.ready(function() {
-      grecaptcha.execute('6LfiEaItAAAAADFVRJeQsXBDgTXErHIINzSIiBkm', {action: 'submit'}).then(function(token) {
-        var input = document.createElement('input');
-        input.type = 'hidden';
-        input.name = 'g-recaptcha-response';
-        input.value = token;
-        document.querySelector('.sponsor-form').appendChild(input);
-        document.querySelector('.sponsor-form').submit();
-      });
-    });
-  });
-</script>
+
 
 ---
 
