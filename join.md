@@ -237,8 +237,6 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
     });
   });
 </script>
-</form>
-<script src="https://www.google.com/recaptcha/api.js"></script>
 
   </div>
 </div>
