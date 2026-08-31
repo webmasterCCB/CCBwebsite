@@ -218,8 +218,10 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
   <textarea id="additional" name="additionalInfo" rows="4" placeholder="Optional - tell us anything else we should know"></textarea>
   
   <!-- Submit Button -->
+  <div class="g-recaptcha" data-sitekey="6LfiEaItAAAAADFVRJeQsXBDgTXErHIINzSIiBkm"></div>
   <button type="submit">Submit Application</button>
 </form>
+<script src="https://www.google.com/recaptcha/api.js"></script>
 
   </div>
 </div>
