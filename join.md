@@ -214,8 +214,8 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
   </div>
   
   <!-- Additional Information -->
-  <span class="section-title">Tell us why you'd like to join the Classic City Band. You may also ask additional questions or say anything you like in this field.<span class="required">*</span></span>
-  <textarea id="additional" name="additionalInfo" rows="4" placeholder="This is a mandatory field."></textarea>
+  <span class="section-title">Tell us why you'd like to join the Classic City Band. You may also ask additional questions or add anything we should see in this field.<span class="required">*</span></span>
+  <textarea id="additional" name="additionalInfo" rows="4" min length="20" placeholder="This is a mandatory field." required></textarea>
   
   <!-- Submit Button -->
   <button type="submit">Submit Application</button>
