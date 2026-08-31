@@ -194,8 +194,8 @@ title: Members Only
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
-        <p><a href="{{'assets/documents/Inc_Exp_Summ_073126.pdf' | relative_url }}" class="btn-link" target="about_blank"> Income / Expense Summary PY 25-26</p>
-        <p><em>Last updated: 7/31/26</em></p>
+        <p><a href="{{'assets/documents/Inc_Exp_Summ_073126.pdf' | relative_url }}" class="btn-link" target="about_blank"</a> Income / Expense Summary PY 25-26
+        <br><em>Last updated: 7/31/26</em></p>
     </div>
   </div>
 
@@ -210,7 +210,7 @@ title: Members Only
       <ul class="recordings-list">
         <li><strong><a href="https://northgeorgiaband.com"  target="_blank" rel="noopener noreferrer">North Georgia Band</a></strong> is located in Tucker, GA.</li>
         <li><strong><a href="https://www.maxwellmusicsupply.com/" target="_blank" rel="noopener noreferrer">Maxwell Music Supply</a></strong> is located in Elberton, GA. Phone number is: 706.213.7766</li>
-        <li><strong><a href="https://www.brassinstrumentworkshop.com/" target="_blank" rel="noopener noreferrer">Brass Instrument Workshop/a></strong> is located in Marietta, GA. Phone number is: 770.565.9949</li>
+        <li><strong><a href="https://www.brassinstrumentworkshop.com/" target="_blank" rel="noopener noreferrer">Brass Instrument Workshop</a></strong> is located in Marietta, GA. Phone number is: 770.565.9949</li>
         <li><strong><a href="https://www.ngahornworks.com/" target="_blank" rel="noopener noreferrer">North Georgia Horn Works</a></strong> is located in Kennesaw, GA. Phone number is: 678.324.7727</li>
       </ul>
       <p><em>Last updated: 7/13/26</em></p>
