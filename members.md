@@ -120,7 +120,7 @@ title: Members Only
           <td>Lee Carmon</td>
           <td>Flute</td>
           <td><a href="mailto:Lcarmon@charter.net">Lcarmon@charter.net</a></td>
-          <td> (706)338-7794</td>
+          <td> (706) 338-7794</td>
         </tr>
         <tr>
           <td>Heidi Nibbelink</td>
