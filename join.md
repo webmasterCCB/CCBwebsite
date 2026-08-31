@@ -214,30 +214,12 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
   </div>
   
   <!-- Additional Information -->
-  <label for="additional">Is there any additional information you would like to share?</label>
-  <textarea id="additional" name="additionalInfo" rows="4" placeholder="Optional - tell us anything else we should know"></textarea>
+  <span class="section-title">Tell us why you'd like to join the Classic City Band. You may also ask additional questions or say anything you like in this field.<span class="required">*</span></span>
+  <textarea id="additional" name="additionalInfo" rows="4" placeholder="This is a mandatory field."></textarea>
   
   <!-- Submit Button -->
   <button type="submit">Submit Application</button>
 </form>
-
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<script>
-  document.querySelector('.signup-form').addEventListener('submit', function(e) {
-    e.preventDefault();
-    grecaptcha.ready(function() {
-      grecaptcha.execute('6LfiEaItAAAAADFVRJeQsXBDgTXErHIINzSIiBkm', {action: 'submit'}).then(function(token) {
-        var input = document.createElement('input');
-        input.type = 'hidden';
-        input.name = 'g-recaptcha-response';
-        input.value = token;
-        document.querySelector('.signup-form').appendChild(input);
-        document.querySelector('.signup-form').submit();
-      });
-    });
-  });
-</script>
-
   </div>
 </div>
 
