@@ -190,12 +190,16 @@ title: Members Only
   <!-- ACCORDION SECTION 5: BYLAWS & DOCUMENTS -->
   <div class="accordion-item">
     <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">Bylaws & Documents (Coming soon)</span>
+      <span class="accordion-title">Bylaws & Documents</span>
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
+      <--!
       <p><a href="{{ '/assets/pdfs/bylaws.pdf' | relative_url }}" class="btn-link">📄 Classic City Band Bylaws</a></p>
       <p><em>Last updated: [Date]</em></p>
+        -->
+        <p><a href="{{'assets/pdfs/Inc_Exp_Summ_073126.pdf' | relative_url }}" class="btn-link"> Income / Expense Summary PY 25-26</p>
+        <p><em>Last updated: 7/31/26</em></p>
     </div>
   </div>
 
