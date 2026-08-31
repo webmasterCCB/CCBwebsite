@@ -219,7 +219,6 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
   
   <!-- Submit Button -->
   <button type="submit">Submit Application</button>
-    <button type="submit" id="submit-btn">Submit Application</button>
 </form>
 
 <script src="https://www.google.com/recaptcha/api.js"></script>
