@@ -75,9 +75,25 @@ We present five Concert Band programs annually showcasing a wide variety of band
     <label><input type="radio" name="sponsorship-level" value="Platinum $2000" required> <strong>Platinum $2000</strong><br>
     Recognition from the podium at all concerts for one year. Sponsor recognition in all concert programs for one year. Full color, full page ad (8.5 x 11 inches) in all season programs for one year. Recognition as Platinum Sponsor in all digital and print media for one year.</label>
   </fieldset>
-  
   <button type="submit">Send</button>
 </form>
+
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script>
+  document.querySelector('.sponsor-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+    grecaptcha.ready(function() {
+      grecaptcha.execute('6LfiEaItAAAAADFVRJeQsXBDgTXErHIINzSIiBkm', {action: 'submit'}).then(function(token) {
+        var input = document.createElement('input');
+        input.type = 'hidden';
+        input.name = 'g-recaptcha-response';
+        input.value = token;
+        document.querySelector('.sponsor-form').appendChild(input);
+        document.querySelector('.sponsor-form').submit();
+      });
+    });
+  });
+</script>
 
 ---
 
