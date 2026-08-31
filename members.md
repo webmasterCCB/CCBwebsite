@@ -194,8 +194,8 @@ title: Members Only
       <span class="accordion-icon">+</span>
     </button>
     <div class="accordion-body">
-        <p><a href="{{'assets/documents/Inc_Exp_Summ_073126.pdf' | relative_url }}" class="btn-link" target="about_blank"</a> Income / Expense Summary PY 25-26
-        <br><em>Last updated: 7/31/26</em></p>
+        <p><a href="{{ '/assets/documents/Inc_Exp_Summ_073126.pdf' | relative_url }}" class="btn-link" target="_blank">Income / Expense Summary PY 25-26</a><br>
+        <em>Last updated: 7/31/26</em></p>
     </div>
   </div>
 
