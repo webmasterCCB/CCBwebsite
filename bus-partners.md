@@ -83,7 +83,7 @@ We present five Concert Band programs annually showcasing a wide variety of band
 
 <p>For high-quality 8.5 x 11 inch print advertisements, please send us an image in PNG, JPG (JPEG), or PDF format and at least 2550 x 3300 pixels at 300 DPI. Smaller ads can be proportionally smaller. Be sure your ad fits the ratio of the size you have purchased. Send your artwork to <a href="mailto:treasurer@classiccityband.org">treasurer@classiccityband.org</a> after you submit the form.</p>
 
-<p>Please give your check (payable to Classic City Band) and this completed form to your CCB member contact or mail them to the address below:</p>
+<p>Please send your check, payable to classic City  band, to the address below.</p>
 
 <p>
 <strong>Classic City Band - Treasurer</strong><br>
