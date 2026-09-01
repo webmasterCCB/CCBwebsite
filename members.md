@@ -57,13 +57,9 @@ title: Members Only
   <div class="accordion-body">
     <p><strong>Weekly Rehearsals:</strong> Tuesdays 6:30 PM - 8:30 PM</p>
     <p><strong>Location:</strong> Cedar Shoals High School Bandroom</p>
-    
     <p><a href="{{ '/assets/documents/Fall2026schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Fall 2026 Schedule</a></p>
-    
     <p><a href="{{ '/assets/documents/Holiday2026schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Holiday Concert 2026 Schedule</a></p>
-    
     <p><a href="{{ '/assets/documents/Spring2027schedule.pdf' | relative_url }}" target="_blank" class="btn-link">Spring 2027 Schedule</a></p>
-    
     <p><em>Schedules updated as needed</em></p>
   </div>
 </div>
@@ -81,12 +77,10 @@ title: Members Only
         <li>Khaki bottoms</li>
         <li>Comfortable shoes</li>
       </ul>
-
       <h4>Concert Black</h4>
       <ul>
         <li>All black, professional clothing</li>
       </ul>
-
       <h4>Tuxedo</h4>
       <ul>
         <li>Black tuxedo jacket and pants</li>
