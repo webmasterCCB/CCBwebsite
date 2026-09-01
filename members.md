@@ -190,10 +190,10 @@ title: Members Only
         <div class="accordion-body">
         <p><a href="{{ '/assets/documents/bylaws.pdf' | relative_url }}" class="btn-link" target="_blank">The Bylaws</a><br>
         <em>Last updated: 6/3/26</em></p>
+    </div>
               <div class="accordion-body">
         <p><a href="{{ '/assets/documents/Inc_Exp_Summ_073126.pdf' | relative_url }}" class="btn-link" target="_blank">Income / Expense Summary PY 25-26</a><br>
         <em>Last updated: 7/31/26</em></p>
-    </div>
     </div>
   </div>
 
