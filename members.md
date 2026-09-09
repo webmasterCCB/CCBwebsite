@@ -192,6 +192,8 @@ title: Members Only
       <em>Last updated: 6/3/26</em></p>
       <p><a href="{{ '/assets/documents/Inc_Exp_Summ_073126.pdf' | relative_url }}" class="btn-link" target="_blank">Income / Expense Summary PY 25-26</a><br>
       <em>Last updated: 7/31/26</em></p>
+      <p><a href="{{ '/assets/documents/Sponsorship_Fundraising_Letter.pdf' | relative_url }}" class="btn-link" target="_blank">Sponsorship Fundraising Letter</a><br>
+      <em>Last updated: 9/9/26</em></p>
     </div>
   </div>
 
