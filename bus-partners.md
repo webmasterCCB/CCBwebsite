@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Business Partners
+title: Sponsorship
 permalink: /bus-partners/
 ---
 
 <div class="bus-partners-container">
 
-<h2>Partner with Classic City Band</h2>
+<h2>Sponsor the Classic City Band</h2>
 
 <h3>About Us</h3>
 
