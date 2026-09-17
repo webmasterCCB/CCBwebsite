@@ -24,7 +24,6 @@ title: Carnegie Hall 2026
 
   <div class="carnegie-gallery">
 
-    <!-- MAIN IMAGE VIEWER -->
     <div class="gallery-viewer">
       <button class="gallery-arrow gallery-prev"
               type="button"
@@ -46,129 +45,12 @@ title: Carnegie Hall 2026
       </button>
     </div>
 
-    <!-- THUMBNAILS -->
     <div id="gallery-thumbnails" class="gallery-thumbnails"></div>
 
   </div>
 </section>
 
-<style>
-  .carnegie-gallery {
-    width: 100%;
-    margin: 0 auto;
-  }
-
-  .gallery-viewer {
-    position: relative;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #111;
-    overflow: hidden;
-  }
-
-  #gallery-main-image {
-    display: block;
-    max-width: 100%;
-    max-height: 85vh;
-    width: auto;
-    height: auto;
-    object-fit: contain;
-    margin: 0 auto;
-  }
-
-  .gallery-arrow {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 2;
-
-    width: 52px;
-    height: 72px;
-    border: 0;
-    border-radius: 4px;
-
-    background: rgba(0, 0, 0, 0.45);
-    color: white;
-    font-size: 36px;
-    line-height: 1;
-    cursor: pointer;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-  .gallery-arrow:hover,
-  .gallery-arrow:focus {
-    background: rgba(0, 0, 0, 0.75);
-  }
-
-  .gallery-prev {
-    left: 12px;
-  }
-
-  .gallery-next {
-    right: 12px;
-  }
-
-  .gallery-thumbnails {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 8px;
-    margin-top: 12px;
-  }
-
-  .gallery-thumbnail {
-    width: 100px;
-    height: 70px;
-    padding: 0;
-    border: 3px solid transparent;
-    background: none;
-    cursor: pointer;
-    opacity: 0.7;
-    overflow: hidden;
-  }
-
-  .gallery-thumbnail img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-
-  .gallery-thumbnail:hover {
-    opacity: 1;
-  }
-
-  .gallery-thumbnail.active {
-    border-color: #555;
-    opacity: 1;
-  }
-
-  @media (max-width: 600px) {
-    .gallery-arrow {
-      width: 42px;
-      height: 60px;
-      font-size: 28px;
-    }
-
-    .gallery-prev {
-      left: 5px;
-    }
-
-    .gallery-next {
-      right: 5px;
-    }
-
-    .gallery-thumbnail {
-      width: 75px;
-      height: 55px;
-    }
-  }
-</style>
+</div>
 
 <script>
   const galleryImages = [
@@ -217,7 +99,6 @@ title: Carnegie Hall 2026
     showGalleryImage(currentGalleryIndex - 1);
   }
 
-  // Build thumbnails automatically from the image list.
   galleryImages.forEach((src, index) => {
     const button = document.createElement("button");
     button.type = "button";
@@ -238,7 +119,6 @@ title: Carnegie Hall 2026
     thumbnailContainer.appendChild(button);
   });
 
-  // Keyboard navigation.
   document.addEventListener("keydown", function(event) {
     if (event.key === "ArrowRight") {
       nextGalleryImage();
@@ -249,6 +129,5 @@ title: Carnegie Hall 2026
     }
   });
 
-  // Mark the first thumbnail as selected.
   showGalleryImage(0);
 </script>
