@@ -15,26 +15,49 @@ title: Members Only
 
 <div id="members-content" class="members-content" style="display: none;">
 
-  <!-- ACCORDION SECTION 1: LATEST EMAIL -->
-  <div class="accordion-item">
-    <button class="accordion-header" onclick="toggleAccordion(this)">
-      <span class="accordion-title">Latest Weekly Email (Coming soon!)</span>
-      <span class="accordion-icon">+</span>
-    </button>
-    <div class="accordion-body">
-      <div class="email-preview">
-        <p><strong>Subject:</strong> [Latest email subject will appear here]</p>
-        <p><strong>Date:</strong> [Date]</p>
-        <p><strong>Preview:</strong> [First 100 characters of email content...]</p>
-        <p><a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" class="btn-link">Read Full Email</a></p>
-      </div>
-      <hr>
-      <h4>Email Archive</h4>
-      <ul class="email-archive">
-        <li><strong>June 2, 2026:</strong>Coming Soon<a href="#">View</a></li>
-      </ul>
-    </div>
+  <!-- ACCORDION SECTION 1: Carnegie Hall recordings -->
+ <div class="accordion-item">
+  <button class="accordion-header" onclick="toggleAccordion(this)">
+    <span class="accordion-title">Professional Videos of the Carnegie Hall Performance June 28, 2026</span>
+    <span class="accordion-icon">+</span>
+  </button>
+
+  <div class="accordion-body">
+
+    <p>
+      <a href="https://drive.google.com/file/d/1G-j1c4ihoTXJi6506OeiBrx0BNnBZ4hu/view?usp=drive_link"
+         target="_blank"
+         rel="noopener noreferrer">
+        Star Spangled Banner (pieced together videos)
+      </a>
+    </p>
+
+    <p>
+      <a href="https://drive.google.com/file/d/1hYaqnqSCJB2ggcfZiqj6W9ufdGMMTrZf/view?usp=drive_link"
+         target="_blank"
+         rel="noopener noreferrer">
+        Clip from Raiders March
+      </a>
+    </p>
+
+    <p>
+      <a href="https://drive.google.com/file/d/1ne6D-BrGWClglZSiMviKUk0F8BTE98LM/view?usp=drive_link"
+         target="_blank"
+         rel="noopener noreferrer">
+        Clip from Star Wars Theme
+      </a>
+    </p>
+
+    <p>
+      <a href="https://drive.google.com/file/d/1ZUztaUoHzQt6Axorfs0pzmgqfjuHXE76/view?usp=drive_link"
+         target="_blank"
+         rel="noopener noreferrer">
+        Applause in the Carnegie Balconies
+      </a>
+    </p>
+
   </div>
+</div>
 
   <!-- ACCORDION SECTION 2: MUSIC & RECORDINGS -->
   <div class="accordion-item">
