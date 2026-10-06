@@ -15,19 +15,20 @@ title: Members Only
 
 <div id="members-content" class="members-content" style="display: none;">
 
-  <!-- ACCORDION SECTION 1: Carnegie Hall recordings -->
- <div class="accordion-item">
+<!-- ACCORDION SECTION: CARNEGIE HALL PROFESSIONAL VIDEOS -->
+<div class="accordion-item">
   <button class="accordion-header" onclick="toggleAccordion(this)">
     <span class="accordion-title">Professional Videos of the Carnegie Hall Performance June 28, 2026</span>
     <span class="accordion-icon">+</span>
   </button>
 
   <div class="accordion-body">
+    <h4>Carnegie Hall Performance Videos</h4>
 
     <p>
       <a href="https://drive.google.com/file/d/1G-j1c4ihoTXJi6506OeiBrx0BNnBZ4hu/view?usp=drive_link"
          target="_blank"
-         rel="noopener noreferrer">
+         class="btn-link">
         Star Spangled Banner (pieced together videos)
       </a>
     </p>
@@ -35,7 +36,7 @@ title: Members Only
     <p>
       <a href="https://drive.google.com/file/d/1hYaqnqSCJB2ggcfZiqj6W9ufdGMMTrZf/view?usp=drive_link"
          target="_blank"
-         rel="noopener noreferrer">
+         class="btn-link">
         Clip from Raiders March
       </a>
     </p>
@@ -43,7 +44,7 @@ title: Members Only
     <p>
       <a href="https://drive.google.com/file/d/1ne6D-BrGWClglZSiMviKUk0F8BTE98LM/view?usp=drive_link"
          target="_blank"
-         rel="noopener noreferrer">
+         class="btn-link">
         Clip from Star Wars Theme
       </a>
     </p>
@@ -51,7 +52,7 @@ title: Members Only
     <p>
       <a href="https://drive.google.com/file/d/1ZUztaUoHzQt6Axorfs0pzmgqfjuHXE76/view?usp=drive_link"
          target="_blank"
-         rel="noopener noreferrer">
+         class="btn-link">
         Applause in the Carnegie Balconies
       </a>
     </p>
