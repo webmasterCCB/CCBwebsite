@@ -34,7 +34,7 @@ title: Members Only
     </p>
 
     <p>
-      <a href="https://drive.google.com/file/d/1hYaqnqSCJB2ggcfZiqj6W9ufdGMMTrZf/view?usp=drive_link"
+      <a href="https://drive.google.com/file/d/1hYaqnqSCJB2ggcfZiqj6W9ufdGMMTrZf/view?usp=sharing"
          target="_blank"
          class="btn-link">
         Clip from Raiders March
@@ -42,7 +42,7 @@ title: Members Only
     </p>
 
     <p>
-      <a href="https://drive.google.com/file/d/1ne6D-BrGWClglZSiMviKUk0F8BTE98LM/view?usp=drive_link"
+      <a href="https://drive.google.com/file/d/1ne6D-BrGWClglZSiMviKUk0F8BTE98LM/view?usp=sharing"
          target="_blank"
          class="btn-link">
         Clip from Star Wars Theme
@@ -50,7 +50,7 @@ title: Members Only
     </p>
 
     <p>
-      <a href="https://drive.google.com/file/d/1ZUztaUoHzQt6Axorfs0pzmgqfjuHXE76/view?usp=drive_link"
+      <a href="https://drive.google.com/file/d/1ZUztaUoHzQt6Axorfs0pzmgqfjuHXE76/view?usp=sharing"
          target="_blank"
          class="btn-link">
         Applause in the Carnegie Balconies
