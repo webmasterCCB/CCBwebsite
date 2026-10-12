@@ -220,6 +220,8 @@ title: Members Only
       <em>Last updated: 9/23/26</em></p>
       <p><a href="{{ '/assets/documents/Sponsorship_Fundraising_Letter.pdf' | relative_url }}" class="btn-link" target="_blank">Sponsorship Fundraising Letter</a><br>
       <em>Last updated: 9/9/26</em></p>
+      <p><a href="{{ '/assets/documents/proclamation26.pdf' | relative_url }}" class="btn-link" target="_blank">Mayor Girtz's Proclamation</a><br>
+      <em>Last updated: 10/11/26</em></p>
     </div>
   </div>
 
