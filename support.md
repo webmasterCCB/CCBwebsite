@@ -19,6 +19,13 @@ permalink: /support/
   </a>  
 </div>
 ---
+<div style="margin-top: 3rem; text-align: center;">
+  <h2>Our Business Sponsors</h2>
+  <img src="{{ '/assets/images/sevenoaks_sm.png' | relative_url }}" alt="Seven Oaks" style="margin: 1rem;">
+  <img src="{{ '/assets/images/pearle_sm.png' | relative_url }}" alt="Pearle" style="margin: 1rem;">
+</div>
+
+<div id="kroger" style="margin-top: 4rem; padding-top: 2rem; border-top: 2px solid var(--primary-red);">
 <div id="kroger" style="margin-top: 4rem; padding-top: 2rem; border-top: 2px solid var(--primary-red);">
 <h2>Kroger Community Rewards Program</h2>
 <p>Support Classic City Band at no cost to you! Every time you shop at Kroger using your rewards card, a percentage of your purchase will be donated to CCB. If you don't have a rewards card, but you do shop at Kroger, you can register for one at one of their stores. You'll also need a login for <a href="https://www.kroger.com" target="_blank">kroger.com</a>. By signing up, you'll have ways to save while shopping at Kroger, plus you can take less than 5 minutes to have Kroger <strong>pay us</strong> every time you shop! Find out more at <a href="https://www.kroger.com/i/community/community-rewards" target="_blank">Kroger's Community Rewards site</a></p>
