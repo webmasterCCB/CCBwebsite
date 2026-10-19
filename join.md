@@ -107,10 +107,19 @@ Classic City Band welcomes musicians of all levels who are passionate about maki
 }
 </style>
 
-<form action="https://formspree.io/f/xgolkrqp" method="POST" class="signup-form">
+<form action="https://api.web3forms.com/submit" method="POST" class="signup-form">
   
-  <!-- Hidden subject line -->
-  <input type="hidden" name="_subject" value="New Member Application - Classic City Band">
+  <!-- Web3Forms access key -->
+  <input type="hidden" name="access_key" value="9bf89cbd-2f88-48b0-82c4-13b9aaffe9d1">
+  
+  <!-- Subject line for email notifications -->
+  <input type="hidden" name="subject" value="New Member Application - Classic City Band">
+  
+  <!-- Honeypot spam protection -->
+  <input type="checkbox" name="botcheck" style="display: none;">
+  
+  <!-- Redirect after submission -->
+  <input type="hidden" name="redirect" value="https://classiccityband.org/thanks">
   
   <!-- Email -->
   <label for="email">Email <span class="required">*</span></label>
