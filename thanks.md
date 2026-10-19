@@ -6,9 +6,9 @@ permalink: /thanks/
 
 <div style="max-width: 700px; margin: 2rem auto; padding: 2rem;">
 
-<img src="{{ '/assets/images/thanksImg.jpg' | relative_url }}" alt="Classic City Band" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;">
-
 <p>Thanks for submitting an application to join the Classic City Band, now celebrating our 51st year!</p>
+
+<img src="{{ '/assets/images/thanksImg.jpg' | relative_url }}" alt="Classic City Band" style="width: 100%; height: auto; border-radius: 8px; margin-bottom: 2rem;">
 
 <p>We are proud to be a no-dues, registered non-profit organization serving Athens-Clarke County and surrounding communities, and we are looking forward to having you join us.</p>
 
