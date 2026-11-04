@@ -13,8 +13,8 @@ permalink: /thanks/
 <p>We are proud to be a no-dues, registered non-profit organization serving Athens-Clarke County and surrounding communities, and we are looking forward to having you join us.</p>
 
 <p>Your application will be forwarded to the section leader for the Primary Instrument you submitted. Please give them a few days to respond with more information.
-<br>Please do not just show up, as we need to make a spot for you to join your section, assign parts as is appropriate, etc.
-<br><b>We are looking forward to having you join us!</p></b></p>
+<br><b>Please do not just show up, as we need to make a spot for you to join your section, assign parts as is appropriate, etc.
+<br>We are looking forward to having you join us!</p></b></p>
 
 <p>In the meantime:</p>
 <p><a href="https://classiccityband.org/concerts">Check out our upcoming performances</a><br>
