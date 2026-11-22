@@ -20,9 +20,10 @@ permalink: /support/
 </div>
 ---
 <div style="margin-top: 3rem; text-align: center;">
-  <h2>Thank You Business Sponsors!</h2>
+  <h2>Our Business Sponsors</h2>
   <img src="{{ '/assets/images/sevenoaks_sm.png' | relative_url }}" alt="Seven Oaks" style="margin: 1rem;">
   <img src="{{ '/assets/images/pearle_sm.png' | relative_url }}" alt="Pearle" style="margin: 1rem;">
+  <img src="{{ '/assets/images/FABT.png' | relative_url }}" alt="Business Name" style="margin: 1rem;">
 </div>
 
 <div id="kroger" style="margin-top: 4rem; padding-top: 2rem; border-top: 2px solid var(--primary-red);">
