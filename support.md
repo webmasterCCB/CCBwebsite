@@ -24,7 +24,7 @@ permalink: /support/
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin-top: 1rem;">
     <img src="{{ '/assets/images/pearle_sm.png' | relative_url }}" alt="Pearle Vision Athens">
     <img src="{{ '/assets/images/sevenoaks_sm.png' | relative_url }}" alt="Seven Oaks Estate Sales">
-    <img src="{{ '/assets/images/FATB.png' | relative_url }}" alt="First American Bank and Trust">
+    <img src="{{ '/assets/images/FABT.png' | relative_url }}" alt="First American Bank and Trust">
   </div>
 </div>
 
