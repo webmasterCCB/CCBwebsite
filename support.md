@@ -22,9 +22,9 @@ permalink: /support/
 <div style="margin-top: 3rem; text-align: center;">
   <h2>Our Business Sponsors</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 2rem; margin-top: 1rem;">
-    <img src="{{ '/assets/images/sevenoaks_sm.png' | relative_url }}" alt="Seven Oaks">
-    <img src="{{ '/assets/images/pearle_sm.png' | relative_url }}" alt="Pearle">
-    <img src="{{ '/assets/images/NEWLOGO_sm.png' | relative_url }}" alt="Business Name">
+    <img src="{{ '/assets/images/pearle_sm.png' | relative_url }}" alt="Pearle Vision Athens">
+    <img src="{{ '/assets/images/sevenoaks_sm.png' | relative_url }}" alt="Seven Oaks Estate Sales">
+    <img src="{{ '/assets/images/FATB.png' | relative_url }}" alt="First American Bank and Trust">
   </div>
 </div>
 
