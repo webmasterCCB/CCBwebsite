@@ -18,7 +18,7 @@ The German Polka Band is a spirited ensemble performing traditional German and E
 
 ### About the Band
 
-The German Polka Band was founded in 2007 by Dr. Jim Heyl, a retired UGA professor who joined the CCB in 1977. The group performs polkas, waltzes, marches and European folk dances with authentic music from Europe. The group was most recently led by Ed Schwartz, however, the Polka Band is currently in the process of seeking a new director and is unavailable for booking. Watch this page for updates!
+The German Polka Band was founded in 2007 by Dr. Jim Heyl, a retired UGA professor who joined the CCB in 1977. The group performs polkas, waltzes, marches and European folk dances with authentic music from Europe. Please email outreach@classiccityband.org for booking information. (Act early, do not wait! We want to fill your Polka needs!)
 
 <!--
 For booking information, contact us at [{{ site.email }}](mailto:{{ site.email }})
